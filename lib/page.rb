@@ -39,14 +39,14 @@ for free.
   def all_pages
     array = []
     pages.each do |page|
-      array << page
+      array << [page[:slug], page[:content]]
     end
     array
   end
 
   def find_page(search_word)
     all_pages.select do |page|
-      page[:slug] == search_word
+      page.first == search_word
     end
   end
 

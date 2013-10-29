@@ -1,4 +1,4 @@
-/*body,
+body,
 html {
   margin: 0;
   padding: 10px;
@@ -17,13 +17,14 @@ html {
 /* This part below may not be required - 
 but was noted as a way to keep the nav bar 
 from being pushed down */
+
 nav {
     display: inline-block;
     padding:0; 
     list-style:none;
     text-align:left;
 }
-*/
+
 /*
 Theme Name: Restaurateur
 Theme URI: http://wpthemes.co.nz/restaurateur/
