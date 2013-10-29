@@ -4,7 +4,10 @@ require 'sequel'
 require 'sqlite3'
 
 database = Sequel.sqlite('database.sqlite3')
-database.run "CREATE TABLE raw_menu_items (id integer primary key autoincrement, title varchar(255))"
+
+#unless database.from(:raw_menu_items)
+  database.run "CREATE TABLE raw_menu_items (id integer primary key autoincrement, title varchar(255))"
+#end
 
 page = Nokogiri::HTML(open('http://www.lecentral.com/ourmenu/dinner.html'))
 
