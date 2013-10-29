@@ -3,14 +3,14 @@ require 'sequel'
 require 'sqlite3'
 require_relative './food'
 require_relative './page'
-require_relative './page_store'
+#require_relative './page_store'
 
 class RestaurantApp < Sinatra::Base
   set :method_override, true
   set :root, 'lib/app'
 
   get '/' do
-    erb :index, locals: {:content => pages_table.to_a}
+    erb :index, locals: {:content => Page.new.find_page("information_directions1")}
   end
 
   get '/events' do

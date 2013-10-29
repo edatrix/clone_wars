@@ -36,6 +36,20 @@ for free.
     database[:pages]
   end
 
+  def all_pages
+    array = []
+    pages.each do |page|
+      array << page
+    end
+    array
+  end
+
+  def find_page(search_word)
+    all_pages.select do |page|
+      page[:slug] == search_word
+    end
+  end
+
   def insert
     pages.insert(:slug => slug, :content => content)
   end
@@ -49,5 +63,3 @@ end
 engine = Page.new
 engine.database
 engine.pages
-engine.insert
-engine.test
