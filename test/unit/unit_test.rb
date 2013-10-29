@@ -11,8 +11,25 @@ class RestaurantAppTest < Minitest::Test
   def test_index_page_functions
     get '/'
     assert_equal 200, last_response.status
+  end  
+
+  def test_events_page_functions
+    get '/events'
+    assert_equal 200, last_response.status
   end
 
+  def test_menus_page_functions
+    get '/menus'
+    assert_equal 200, last_response.status
+  end
 
+  def test_party_page_functions
+    get '/party_info'
+    assert_equal 200, last_response.status
+  end
 
+  def test_index_contact_functions
+    get '/contact'
+    assert_equal 200, last_response.status
+  end
 end
