@@ -15,9 +15,9 @@ class Page
 <br>Take 6th Ave to Lincoln and Turn Left
 <br>Le Central is 3 blocks north on Lincoln turning from 6th Ave on 8th
 and Lincoln, it will be on your right.
-<br>Paid parking only&nbsp; -- on 8th Ave and Lincoln St there are parking
+<br>Paid parking only; -- on 8th Ave and Lincoln St there are parking
 meters which are free after 6 pm and Sunday and Holidays.
-<br>There are parking lots next to Le Central on the South side on Linclon,
+<br>There are parking lots next to Le Central on the South side on Lincoln,
 however none of these parking lots are owned or controlled by Le Central.&nbsp;
 Parking is $5.00 per day for which you will be ticketed should you neglect
 to put money in the slot box located on the front of the parking lots on
