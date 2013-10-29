@@ -11,8 +11,6 @@ class RestaurantApp < Sinatra::Base
   set :method_override, true
   set :root, 'lib/app'
 
-
-
   get '/' do
     erb :index, locals: {:title => menu_items_database_table.to_a}
   end
