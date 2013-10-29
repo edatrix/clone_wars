@@ -3,9 +3,9 @@ require 'sequel'
 require 'sqlite3'
 require_relative './app'
 
-class Food
+class Menu
   def setup
-    database.create_table :foods do
+    database.create_table :menus do
       primary_key :id
       String      :name
       String      :description,    :size => 255
