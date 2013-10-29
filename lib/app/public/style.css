@@ -1,7 +1,7 @@
 body,
 html {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 10px;
   color:#000;
   background:#FFFFFF;
 }
@@ -10,7 +10,6 @@ html {
  text-align:center;
 }
 .logo {
-    padding-top: 10px;
     display: inline-block;
     width: 800px
 }
