@@ -1,15 +1,15 @@
 require 'Sinatra'
 require 'sequel'
 require 'sqlite3'
-require_relative './food'
-require_relative './page'
+require './lib/page'
+require './lib/page_store'
 
 class RestaurantApp < Sinatra::Base
   set :method_override, true
   set :root, 'lib/app'
 
   get '/' do
-    erb :index, locals: {:content => pages_table.to_a}
+    erb :index, locals: {:content => "Bonjour"} #Page.new.find_page("information_directions1").first[1]}
   end
 
   get '/events' do
@@ -30,13 +30,13 @@ class RestaurantApp < Sinatra::Base
 
   private
 
-  def menu_items_database_table
-    database ||= Sequel.sqlite('database.sqlite3')
-    database[:raw_menu_items]
-  end
+  # def menu_items_database_table
+  #   database ||= Sequel.sqlite('database.sqlite3')
+  #   database[:raw_menu_items]
+  # end
 
-  def pages_table
-    database ||= Sequel.sqlite('development.sqlite3')
-    database[:pages]
-  end
+  # def pages_table
+  #   database ||= Sequel.sqlite('development.sqlite3')
+  #   database[:pages]
+  # end
 end

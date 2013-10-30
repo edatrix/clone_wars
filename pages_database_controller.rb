@@ -1,7 +1,7 @@
 require 'sequel'
 require 'sqlite3'
 
-database ||= Sequel.sqlite('development.sqlite3')
+database ||= Sequel.sqlite('db/development.sqlite3')
 
 #unless database.from(:raw_menu_items)
   database.run "CREATE TABLE pages (id integer primary key autoincrement, slug varchar, content varchar)"
