@@ -1,7 +1,9 @@
 slug = ["information_directions1", "lecentral", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
         "ourmenu_stass_menus", "tempstuff_picnicbasketmain", "winebev_featured",
-        "winebev_whitewine", "winebev_redwine", "ourmenu_brunch", ]
+        "winebev_whitewine", "winebev_redwine", "ourmenu_brunch",
+        "ourmenu_lunch", "tempstuff_happyhr", "ourmenu_dinner",
+        "ourmenu_dessert", "ourmenu_mussels" ]
 
 
 content = ["<center><font size=+4>Directions</font>
@@ -890,5 +892,552 @@ content = ["<center><font size=+4>Directions</font>
             </tr>
             </table>
             </body>",
-            " ]
+            "<body>
+            <table width='677' border='0' align='left' cellpadding='0' bordercolor='#000064' class='MsoNormalTable'
+            id='brunch' style='width:573.75pt;
+            mso-cellspacing:1.5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+            <tr style='mso-yfti-irow:5'>
+            <td width='673' style='padding:.75pt .75pt .75pt .75pt'><p class='MsoNormal' align='center' style='text-align:center'>&nbsp;</p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><i><span
+            style='font-size:24.0pt;font-family:&quot;MS Reference Serif&quot;;color:#33FF33'>Menu du </span></i></b></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><i><span
+            style='font-size:24.0pt;font-family:&quot;MS Reference Serif&quot;;color:#33FF33'>27 Octobre</span></i></b></p></td>
+            </tr>
+            <tr style='mso-yfti-irow:7'>
+            <td style='padding:.75pt .75pt .75pt .75pt'><p class='MsoNormal' align='center' style='margin-bottom:12.0pt;
+            text-align:center'><b><span
+            style='font-size:10.0pt;font-family:Arial;color:#CCCCCC'>&quot;
+            <st1:place
+            w:st='on'>
+            <st1:City w:st='on'>Denver</st1:City>
+            </st1:place>
+            's Affordable
+            French Restaurant cooks up truly great Provencal-inspired dishes in a comfy
+            bistro setting. The Sunday à la carte brunch is worth getting out of bed
+            for.&quot;</span></b> <br />
+            <b><span style='font-size:10.0pt;font-family:Arial;color:#CCCCCC'>--Kyle
+            Wagner, Westword</span></b></p></td>
+            </tr>
+            <tr style='mso-yfti-irow:10'>
+            <td style='padding:.75pt .75pt .75pt .75pt'><p class='MsoNormal' align='center'
+            style='text-align:center'><b><span style='font-size:18.0pt;color:yellow'>
+            Pour Commencer</span></b></p>
+            <p class='MsoNormal2' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Mimosa</span></b></p>
+            <p class='MsoNormal2' align='center' style='text-align:center'><strong>$5
+            by the glass or $9 Bottomless</strong></p>
+            <p class='MsoNormal3' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Bloody Mary with Old Bay Spice</span></b></p>
+            <p class='MsoNormal3' align='center' style='text-align:center'><span class='MsoNormal2'
+            style='text-align:center'><strong>$5 by the glass or $9 Bottomless</strong></span></p>
+            <p class='MsoNormal' align='center' style='text-align:center'>&nbsp;</p>
+            <p class='MsoNormal' align='center' style='text-align:center'>&nbsp;</p>
+            <p align='center' class='MsoNormal' style='text-align:center'><strong><span class='style20'>
+            Starters...</span></strong></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Soupe du Jour</span></b></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b>
+            <span style='color:#66FFFF'>$2/ $3</span></b></p>
+            <p align='center' class='MsoNormal style17' style='text-align:center'><span class='style4'>
+            A. Beef &amp; Fall Vegetable </span></p>
+            <p align='center' class='MsoNormal style17' style='text-align:center'><span class='style4'>
+            B. Curried Sweet Potato Bisque</span></p>
+            <p align='center' class='MsoNormal style17' style='text-align:center'>&nbsp;</p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><span style='color:#66FFFF'>Soupe
+            a L&#8217;Oignon</span></b> <br />
+            <b><span style='color:#66FFFF'>$3/$4</span></b><br />
+            <span class='style15'>Classic French Onion Soup gratineed with Swiss cheese&nbsp;</span></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>L’Ail et Le Brie</span></b><br />
+            <b><span style='color:#66FFFF'>$9</span></b>&nbsp; <br />
+            <span class='style15'>Warm wedge of brie, roasted head of garlic and  croutons with tomatoes
+            and basil</span></p>
+            <p align='center' style='text-align:center'><span class='style4'>&nbsp;</span><b><span style='color:#66FFFF'>
+            Charcuterie du Central </span></b><br />
+            <b><span style='color:#66FFFF'>$11</span></b><br />
+            <span class='style15'>Chef Philippe’s house made selection of pâtés and cured meats served with
+            Dijon mustard, red onions, cornichons and croutons</span></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>Escargots Bourguignons</span></b><br />
+            <b><span style='color:#66FFFF'>$7</span></b><br />
+            <span class='style15'>Six tender escargots sautéed in sweet butter with garlic, shallots, mushrooms
+            and parsley</span></p>
+            <p align='center' style='text-align:center'><b><span style='font-size:18.0pt;font-family:Arial;
+            color:yellow'>Salads...</span><span
+            style='color:#66FFFF'>&nbsp;</span></b></p>
+            <p align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Salade
+            Verte</span></b><br />
+            <b><span style='color:#66FFFF'>$4.50</span></b><br />
+            <span class='style15'>Mixed greens tomatoes, cucumber, and carrots tossed with tarragon vinaigrette
+            and croutons</span></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>Salade
+            Cesar </span></b> <br />
+            <b><span style='color:#66FFFF'>$5</span></b><br />
+            <span class='style15'>Romaine lettuce, parmesan cheese, and croutons tossed with a house made Caesar dressing</span></p>
+            <palign='center' style='text-align:center'><span class='style4'>&nbsp;<b><span style='color:#66FFFF'>Salade
+            d’ Épinards </span></b> <br />
+            <b><span style='color:#66FFFF'>$6</span></b><br />
+            <strong>Spinach salad tossed in a warm bacon vinaigrette  and prepared with bacon, roasted red peppers,
+            Parmesan cheese, red onions, and soft </strong></span></p>
+            <p align='center' style='text-align:center'><span class='style4'><strong><b><span style='color:#66FFFF'>
+            Salade d’Onglet </span></b> <br />
+            <b><span style='color:#66FFFF'>$15</span></b><br />
+            <strong>Grilled Hanger served over romaine   tossed in blue cheese dressing with blue cheese crumbles,
+            bacon, tomatoes, red onions, carrots and topped with Gaufrettes </strong></strong></span></p>
+            <p align='center' style='text-align:center'><span class='style4'><b><span style='color:#66FFFF'>
+            Salade Nicoise </span></b> <br />
+            <strong><span class='style6'>$15</span></strong><br />
+            <strong>Filet of tuna grilled to your liking, served over mixed greens tossed in Balsamic vinaigrette
+            with boiled potatoes, red onion, tomatoes, haricot verts, olives, anchovies, cucumbers, roasted red peppers,
+            and hard boiled egg</strong></span></p>
+            <p align='center' style='text-align:center'>&nbsp;</p></td>
+            </tr>
+            <tr style='mso-yfti-irow:13'>
+            <td style='padding:.75pt .75pt .75pt .75pt'><p class='MsoNormal' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <span style='font-size:18.0pt;font-family:Arial;color:yellow'>Les Oeufs...</span><span
+            style='color:#66FFFF'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />
+            <span class='style9'>Served with fresh fruit and herbed fried red potatoes</span><br />
+            <br />
+            Ouefs Benedicts $9</span></b></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><span class='style4'>Ham, </span><span
+            style='color:#66FFFF'><span class='style4'>2 poached eggs, Hollandaise sauce over toasted brioche <br />
+            (substitute smoked salmon add $2)
+            </span><br />
+            <span class='style4'><span class='style6'>Gateau de Crabe Benedict    $13</span> </span></span></b></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'><span class='style4'>Pan fried blue crab cakes, sauce Maltaise (orange spiked Hollandaise),
+            2 poached eggs over toasted brioche</span><br />
+            </span></b></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Le Paysan         $8</span></b></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><span class='style15'>Two eggs cooked your
+            way with choice of house cured bacon, ham, or sausage patty</span></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Steak et Oeufs $15</span></b></p>
+            <p class='MsoNormal' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'><span class='style4'><span class='style6'>Hanger</span> steak    and two
+            <span class='style4'>e</span>ggs cooked your way served with sauce Béarnaise</span><br />
+            </span></b></p>
+            <p class='MsoNormal4' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Casserole de Durango          $11</span></b></p>
+            <p class='MsoNormal4' align='center' style='text-align:center'><strong>Slow cooked pork carnitas, poached eggs,
+            braised peppers and onions with green chili sauce and cheddar cheese over herbed fried red potatoes</strong><br />
+            </p>
+            <p class='MsoNormal5' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Quiche Lorraine         $9</span></b></p>
+            <p class='MsoNormal5' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'><span class='style4'>Savory egg custard in a pastry crust with ham, onion and Swiss
+            cheese</span></span></b></p>
+            <p class='MsoNormal5111' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Tartine des Légumes           $9</span></b></p>
+            <p class='MsoNormal5111' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'><span class='style4'>Brioche  topped with sliced tomatoes,  mushrooms, and sautéed
+            spinach with two poached eggs; finished with Mornay sauce</span></span></b></p>
+            <p class='MsoNormal5' align='center' style='text-align:center'>&nbsp;</p>
+            <p align='center' style='text-align:center'><b><span style='font-size:18.0pt;font-family:Arial;color:yellow'>
+            Les Omelettes...</span><span style='color:#66FFFF'><span class='style9'><br />
+            Three egg omelette served with fresh fruit and herbed fried red potatoes</span></span></b></p>
+            <p class='MsoNormal51' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'>Denver Le Central Style  $11</span></b></p>
+            <p class='MsoNormal51' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'><span class='style4'>House cured bacon, ham, cheddar cheese, and herb spiked, slow
+            roasted peppers and onions</span></span></b></p>
+            <p class='MsoNormal511' align='center' style='text-align:center'>&nbsp;</p>
+            <p class='MsoNormal512' align='center' style='text-align:center'><span class='style19'>Végétarienne $9</span><br />
+            </p>
+            <p class='MsoNormal512' align='center' style='text-align:center'><b><span
+            style='color:#66FFFF'><span class='style4'>Tomatoes with roasted mushrooms, leeks, and artichoke hearts
+            with parmesan cheese</span></span></b></p>
+            <p class='MsoNormal51' align='center' style='text-align:center'><b><span style='color:#66FFFF'><br />
+            </span></b></p>
+            <p align='center' style='text-align:center'><b><span style='font-size:18.0pt;font-family:Arial;color:yellow'>
+            Les Crêpes... </span></b><br />
+            <b><span style='color:#66FFFF'><span class='style9'>Made in the traditional French style served with fresh fruit
+            and herbed fried red potatoes</span><br />
+            Fruits de Mer $10<br />
+            <span class='style4'>Bay scallops, shrimp, red and white fish in a dill cream sauce gratinéed
+            with Swiss cheese</span></span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>Poulet $9<br />
+            <span class='style4'>Tender chicken morsels simmered in a light curry cream sauce with carrots, onions,
+            and spinach; gratinéed with Swiss cheese</span><br />
+            </span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>        Lardons $10<br />
+            <span class='style4'>Grilled marinate<span class='style4'>d steak</span>, onions, mushrooms, smoked bacon
+            in a fire roasted chipotle, mustard cream sauce gratinéed with Swiss cheese</span></span></b></p>
+            <p align='center' style='text-align:center'><b><span class='style16'>From the Griddle...</span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'><span class='style9'>Served with
+            fresh seasonal fruit </span></span></b><span class='style9'><b>(Add 4 slices of house cured bacon $4)</b></span>
+            <b><span style='color:#66FFFF'><br />
+            </span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>NEW Banana Bread $7<br />
+            <span class='style4'>Sliced<span class='style6'> </span>b<span class='style6'>anana</span> bread with powdered
+            sugar and served with pure maple syrup</span></span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>Pain Perdu Farçi           $10
+            <br />
+            <span class='style4'>Cinnamon battered brioche stuffed with strawberries with a touch of brandy, vanilla bean,
+            and cream cheese with pure maple syrup</span></span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>Les Gauffres             $7<br />
+            <span class='style4'>Belgium waffle, topped with Grand Marnier butter with pure maple syrup and whipped cream
+            with your choice of strawberry compote or chocolate sauce</span></span></b><b><span style='color:#66FFFF'><br />
+            </span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>        Croque Monsieur $8<br />
+            <span class='style4'>Country bread, béchamel, Swiss cheese, and ham</span> <span class='style5'>(make it a Madame
+                  with two sunny side up eggs add $1.50)</span></span></b></p>
+            <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>        Monte Cristo $9<br />
+            <span class='style4'>Brioche layered with ham and Swiss cheese, dipped in egg then griddle fried served with
+            powdered sugar and raspberry coulis</span><br />
+            </span></b></p>
+            <p align='center' style='text-align:center'>&nbsp;</p>
+            <p align='center' style='text-align:center'><strong><span class='style16'>Les Moules et Frites . . . $11.95 </span></strong></p>
+            <p align='center' class='style51'>All mussels are steamed with white wine,  butter, garlic and shallots,
+            served with unlimited French  fries <br />
+            <span class='style5'>*** Foreign hard objects can be found in the shellfish such as sand,  small rocks, crabs ***</span></p>
+            <p align='center' class='style39'>&nbsp;</p>
+            <p align='center'><span class='style4'><strong>Basilic</strong><br />
+            Fresh  basil and diced tomatoes</span></p>
+            <p align='center' class='style4'><strong>Provençal</strong><br />
+            Parsley  and pastis topped with breadcrumbs</p>
+            <p align='center' class='style4'><strong>Pistou  </strong><br />
+            Basil pesto, shallots, parmesan  cheese</p>
+            <p align='center' class='style4'><strong>Mouclade </strong><br />
+            Light yellow curry, white wine,  shallots and a touch of cream</p>
+            <p align='center' class='style4'><strong>  Normande</strong><br />
+            Mushrooms,  onions, brandy and cream</p>
+            <p align='center' class='style4'><strong>À la Moutarde</strong><br />
+            Whole  grain mustard, smoked bacon and cream</p>
+            <p align='center' class='style4'><strong>Marinière</strong><br />
+            Parsley,  shallots and garlic</p>
+            <p align='center' class='style4'><strong>Midi</strong> <br />
+            Olives,  tomatoes, breadcrumbs and parmesan cheese</p>
+            <p align='center' class='style4'><strong>Safran (add $1)</strong><br />
+            Saffron,  cream, onion and tomatoes</p>
+            <p align='center' class='style4'><strong>Fromage</strong><br />
+            Blue  cheese and cream</p>
+            <p align='center' class='style4'><strong>Italienne (spicy)</strong><br />
+            Crushed  red pepper, lemon and marinara</p>
+            <p align='center' class='style4'><strong>Portugaise</strong><br />
+            Spanish  chorizo, tomato, and a pinch of coriander</p>
+            <p align='center' class='style4'>&nbsp;</p>
+            <div align='center' class='style39'>
+            <p>&nbsp;</p>
+            <p><img src='line.jpg' alt='LINE' width='792' height='18' /></p>
+            </div>
+            <p align='center' style='text-align:center'>&nbsp;</p>
+            <p align='center' style='text-align:center'>&nbsp;</p>
+            <p align='center' style='text-align:center'>&nbsp;</p></td>
+            </tr>
+            </table>
+            </body>",
+            "<body>
+            <p align='center'>&nbsp;</p>
+            <p align='center'>&nbsp;</p>
+            <p align='center'><span class='MsoNormal' style='text-align:center'><b><span
+            style='font-size:xx-large; font-family:&quot;Book Antiqua&quot;; color:#8080FF'>
+            Menu du 29 Octobre</span></b></span></p>
+            <p align='center'>&nbsp;</p>
+            <p align='center' class='style73'><span class='MsoNormal' style='text-align:center'><b>
+            <i><span style='font-size:13.5pt;font-family:Arial;color:#D3E9F5'>The
+            Menus at Le Central Change daily!</span></i>
+            <o:p></o:p>
+            </b></span></p>
+            <div align='center' class='style45'>
+            <p><span class='style42'>Take your afternoon
+            back!</span> <em><strong><br/>
+            </strong></em><strong>We are encouraging the renewal of the leisure lunch!</strong><em><strong><br/>
+            <span class='style44'>&nbsp; Desserts, House Martinis and Sangria are $3.50
+            Monday through Friday lunch!</span></p>
+            </div>
+            <p align='center'><img src='pour commencer.jpg' width='288' height='144' /></p>
+            <p align='center' class='style51'><strong>Soupes du Jour</strong></p>
+            <p align='center' class='style51'><span class='style66'> Beef and fall vegetables $2 Cup/$3 Bowl</span></p>
+            <p align='center' class='style51'><span class='style66'> Curried sweet potato bisque $2 Cup/$3 Bowl<br />
+            </span></p>
+            <p align='center' class='style51'><span class='style66'>Soupe a l'Oignon $3 Cup / $4 Bowl</span></p>
+            <p align='center' class='style51'><strong>L’Ail et Le Brie $9</strong><br />
+            <span class='style39'>Warm wedge of brie, roasted head of garlic, and croutons with tomatoes
+            and basil</span></p>
+            <p align='center' class='style51'>Charcuterie  du Central $11 <br />
+            <span class='style39'><strong>House  made selection of pates and cured meats served with Dijon
+            mustard, red onions, cornichons, and  croutons</strong></span></p>
+            <p align='center' class='style51'><strong>Salade Verte $4</strong>.50<br />
+            <span class='style39'>Mixed field greens tossed with tarragon vinaigrette</span></p>
+            <p align='center' class='style51'><strong>Salade d'Epinard</strong> $6 <br />
+            <span class='style39'>Spinach tossed in warm bacon vinaigrette with parmesan, roasted red peppers,
+            red onion, soft poached egg and bacon</span></p>
+            <p align='center' class='style51'><strong>Salade Cesar</strong> $5<br />
+            <span class='style39'>Crisp romaine tossed in our house Cesar dressing with Parmesan, croutons and
+            an anchovy filet </span></p>
+            <p align='center' class='style51'><strong></strong>Salade de Betterave  $6 /Entree Size $10<br />
+            <span class='style39'>Colorado beets, grilled asparagus,  goat cheese, and walnuts served over
+            mixed green tossed in balsamic vinaigrette</span></p>
+            <p align='center'><span class='style51'>*Add grilled salmon to any salad for $7*</span></p>
+            <p align='center' class='style51'><img src='les sandwiches.jpg' width='288' height='144' />
+            <span class='style39'><span class='style55'><br />
+            </span></span></p>
+            <p align='center' class='style51'>Served with salade verte  and choice of potato salad or pommes frites</p>
+            <p align='center'><span class='style51'>Croque  Madame $10</span><span class='style39'><span class='style55'><br />
+            Open faced sandwich with country bread, ham, and Swiss cheese topped with two sunny side up eggs </span></span><br />
+            </p>
+            <p align='center'><span class='style51'> Panini aux Légumes  $9</span><span class='style39'><span class='style55'><br />
+            </span><strong>Roasted eggplant, sautéed mushrooms, roasted red peppers, spinach, feta cheese, with parsnip puree</strong>
+            <span class='style55'> layered on a house made French baguette</span></span><span class='style39'><span class='style55'><br />
+            </span></span></p>
+            <blockquote>
+            <p align='center' class='style51 style71'><span class='style39'><span class='style51'>Jambon, Beurre et
+            Cornichon  $11</span><span class='style55'><br />
+            </span><strong>House cured ham layered on a French baguette with tomato, mixed green, butter and cornichons</strong></span></p>
+            <blockquote>
+            <p align='center' class='style51 style71'><span class='style39'><span class='style51'>Monte Cristo $9</span><br />
+            Brioche layered with ham and Swiss cheese, dipped  in    egg then griddle fried served with powdered sugar
+            raspberry coulis</span></p>
+            <p align='center' class='style51 style71'><span class='style39'><span class='style51'>Monte Cristo et de la Soupe $7
+            </span><br />
+            Half Monte Cristo accompanied with a choice of our soup of the day selections and salade verte </span></p>
+            <p align='center' class='style51 style71'><span class='style39'><span class='style51'>Petite Pâte Chaud et sa Soupe  $9
+            </span><br />
+            Warm puff pastry stuffed with ground pork accompanied with a choice of our soup of the day</span></p>
+            <p align='center' class='style51 style71'><span class='style51'>Sandwich de boeuf  $11</span><span class='style39'><br />
+            <span class='style55'>Roast beef layered on a brioche bun with tomato, red onions, mixed greens, Swiss cheese and horseradish
+            aioli</span></span></p>
+            <p align='center' class='style51 style71'><span class='style39'><br />
+            </span></p>
+            </blockquote>
+            </blockquote>
+            <p align='center' class='style51 style71'><img src='les grandes salades.jpg' width='288' height='144' />
+            <span class='style51'><br />
+            </span></p>
+            <p align='center' class='style39'><span class='style51'>Salade  de Saumon$14</span></p>
+            <p align='center' class='style39'><span class='style51'><span class='style39'>Grilled filet of salmon served over mixed
+            green tossed in a tarragon vinaigrette with beets, hard boiled egg and bleu cheese</span></span></p>
+            <p align='center' class='style39'><span class='style51'>Salade de Chêvre  $13</span></p>
+            <p align='center' class='style39'><span class='style54'>Warm goat cheese crostini served with mixed greens tossed with
+            strawberry vinaigrette with candied walnuts, grapes and strawberries</span><span class='style51'><br />
+            </span></p>
+            <p align='center' class='style39'><span class='style51'>Salade Niçoise  $14</span></p>
+            <p align='center' class='style39'><strong>Ahi tuna grilled to your liking, served over mixed greens tossed in balsamic
+            vinaigrette with boiled potatoes, egg plant, red onions, olives, tomatoes,   anchovies, roasted red peppers, and hard
+            boiled egg</strong><span class='style51'><br />
+            </span></p>
+            <p align='center' class='style39'><img src='le plat du jour.jpg' width='288' height='144' /><span class='style54'><br />
+            </span></p>
+            <p align='center'><span class='style54'><strong><span class='style75'><br />
+            </span></strong></span></p>
+            <p align='center'><span class='style39'><span class='style51'>Quiche Lorraine $9</span><br />
+            <strong>Savory egg custard baked into a flaky pastry crust with ham, caramelized onions and Swiss cheese; served with a
+            petite salade verte and pommes frites</strong></span></p>
+            <p align='center'><strong><span class='style51 style71'><span class='style51'>Cassoulet du Central  $14</span>
+            <span class='style39'><br />
+            White beans simmered with pork, duck confit, tomatoes, onions and garlic; topped with mushroom, pistachio sausage
+            </span></span></strong></p>
+            <p align='center'><span class='style55'><span class='style54'><strong><span class='style51 style71'><span class='style51'>
+            Omelette de porc$10</span><span class='style39'><br />
+            Three egg omelette with Carnitas, green chili and gratineed with cheddar cheese; sided by pommes frites and salade verte
+            </span></span></strong></span></span></p>
+            <p align='center'><span class='style55'><span class='style54'><strong><span class='style51 style71'><span class='style51'>
+            Omelette aux Epinard      $9</span><span class='style39'><br />
+            Egg white omelette with spinach, mushrooms, roasted garlic and Swiss cheese; sides by house cut pommes frites and salade verte
+            </span></span></strong><br />
+            </span></span></p>
+            <p align='center' class='style51 style71'><strong><span class='style51'>Sole sauce  Provençale   $13</span>
+            <span class='style39'><br />
+            Seared filet of sole topped with a rustic ragout of tomatoes, olives, capers, garlic, and lemon juice; served with
+            rice and vegetables </span></strong></p>
+            <p align='center' class='style51 style71'><strong><span class='style51'>Crêpes  aux Lardon $10</span><span class='style39'><br />
+            Savory crêpes with grilled marinated steak simmered in a fire chipotle cream sauce with smoked bacon, sauteed onions and mushrooms;
+            gratinéed with Swiss cheese</span><br />
+            </strong></p>
+            <p align='center' class='style76'>Moules et Frites</p>
+            <p align='center' class='style76'>$11.95</p>
+            <p align='center' class='style51'>All mussels are steamed with white wine,  butter, garlic and shallots, served
+            with unlimited pommes frites<br />
+            <span class='style56'>*** Foreign hard objects can be found in the shellfish such as sand,  small rocks, crabs ***</span></p>
+            <p align='center' class='style39'><span class='style51'><strong>Basilic </strong></span><strong><br />
+            Fresh basil and diced tomatoes</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>Provençale </strong></span><strong><br />
+            Parsley, Pernod; topped with  bread crumbs</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>Pistou </strong></span><strong><br />
+            Basil pesto, shallots, parmesan cheese</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>À la Moutarde </strong></span><strong><br />
+            Whole grain mustard, smoked  bacon and cream</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>Marinière</strong></span><strong><br />
+            Parsley,  white wine, shallots, and garlic</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>Midi</strong></span><strong><br />
+            Olives,  tomatoes, breadcrumbs and Parmesan cheese</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>Normande</strong></span><strong><br />
+            Mushrooms,  onions, brandy and cream</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>Safran (add $1.00) </strong></span><strong><br />
+            Cream, saffron, onion and  diced tomatoes</strong></p>
+            <p align='center' class='style39'><span class='style51'><strong>Portugaise</strong></span><strong><br />
+            Spanish chorizo, tomato, and a pinch of corriander</strong></p>
+            <div align='center' class='style39'>
+            <p><span class='style51'><strong>Italienne (Hot and Spicy)</strong></span><strong><br />
+            Crushed red pepper and lemon with a touch of marinara</strong></p>
+            <p><img src='line.jpg' alt='LINE' width='792' height='18' /></p>
+            </div>
+            </body>",
+            "<body>
+            <p align='center' class='style18' style='text-align:center'>Menu du 29 Octobre</p>
+            <p align='center' class='style18' style='text-align:center'>&nbsp;</p>
+            <div align='center'>
+            <p><span class='style18'>Hors d'Oeuvres</span></p>
+            </div>
+            <p align='center' class='style46'>&nbsp;</p>
+            <p align='center'>&nbsp;</p>
+            <p align='center'>&nbsp;</p>
+            <p align='center'><strong><span class='style8'>Assiette de
+            Fromage <br />
+            13</span></strong><strong><br />
+            <span class='style34'>Camembert, Montrachet Chêvre, Port Salut,  and Bleu Cheese served with fresh
+            seasonal fruits, walnuts and croutons </span></strong></p>
+            <p align='center' class='style48'>Cuisses de grenouille<br />
+            9<br />
+            </p>
+            <p align='center' class='style67'> <strong>Frog legs pan seared and finished in awhite wine,
+            tomato, pastis, butter sauce</strong></p>
+            <p align='center' class='style67'><strong><span class='style8'>Feuilleté d’Escargots <br />
+            9
+            </span></strong><strong><br />
+            <span class='style34'>Six escargots prepared in a creamy sauce with blue cheese, walnuts, spinach,
+            and tomato topped with puff pastry</span></strong></p>
+            <p align='center'><strong><span class='style8'>Escargots Bourguignons  <br />
+            7</span></strong><strong><br />
+            <span class='style34'>Six escargots sautéed with butter, garlic, mushrooms, shallots and parsley
+            </span></strong></p>
+            <p align='center'><strong><span class='style8'>Petit Chêvre
+            Fondu à la Provençale <br />
+            9</span></strong><em><strong><br />
+            </strong></em><strong><span class='style34'>Goat cheese flavored with olive oil and topped with
+            sweet balsamic onion
+            marmalade, tomatoes, basil and breadcrumbs and baked to a golden brown</span></strong></p>
+            <p align='center'><strong><span class='style8'>Charcuterie
+            du Central <br />
+            11</span></strong><em><strong><br />
+            </strong></em><strong><span class='style34'>House made selection of pates and cured meats
+            served with Dijon mustard, Kalamata olives, red
+            onions, cornichons, and croutons</span></strong></p>
+            <p align='center'><strong><span class='style8'>L' Ail, Le
+            Brie, et Les Croutons<br />
+            9</span></strong><em><strong><br />
+            </strong></em><strong><span class='style34'>Warm wedge of brie, roasted head of garlic,
+            tomatoes, basil and croutons</span></strong></p>
+            <p align='center'>&nbsp;</p>
+            <p align='center'><img src='soupes.jpg' width='500' height='72' /></p>
+            <p align='center'><span class='style8'><b>Soupe du Jour</b> <br />
+            <strong>3/4</strong></span></p>
+            <p align='center'><span class='style8'><b>Soupe à l'Oignon</b> <br />
+            <strong> 3/4</strong></span></p>
+            <p align='center'>&nbsp;</p>
+            <p align='center' class='style48'><span class='style8'><strong>Salade Verte</strong>
+            </span><span class='style8'><strong><br />
+            5</strong></span><strong><br />
+            <span class='style34'>Mixed greens, red onions, tomato, cucumbers, and croutons
+            tossed with tarragon vinaigrette</span></strong></p>
+            <p align='center'><strong><span class='style8'>Salade Cesar <br />
+            5</span><br />
+            <span class='style34'>Romaine lettuce, Parmesan cheese, and croutons tossed with a rich anchovy
+            vinaigrette</span></strong></p>
+            <p align='center'><strong><span class='style8'>Salade
+            Périgourdine <br />
+            6</span><br />
+            </strong> <strong><span class='style34'>Hazelnuts, mushrooms and country-style pate with mixed greens in a
+            <st1:place
+            w:st='on'>
+            <st1:City w:st='on'>strawberry and balsamic </st1:City>
+            </st1:place>vinaigrette</span></strong></p>
+            <p align='center'><strong><span class='style8'>Salade
+            d'Epinard<br />
+            6</span><br />
+            </strong> <strong><span class='style34'>Spinach tossed in warm bacon vinaigrette with Parmesan,
+            roasted red peppers, red onion, hard boiled egg and bacon</span></strong></p>
+            <p align='center'><span class='style8'><strong>S</strong><b>alade de Champignon</b> <br />
+            <strong>7</strong></span><em><br />
+            </em><span class='style45'><strong><span class='style34'>Mixed greens</span></strong>, Portobello
+            mushrooms, roasted red peppers with balsamic vinaigrette</span></p>
+            <p align='center'><span class='style8'><strong></strong><b>Salade de Betterave </b> <br />
+            <strong>8</strong></span><em><br />
+            </em><span class='style45'><strong><span class='style34'></span></strong>Mixed greens tossed in
+            tarragon vinaigrette served over beets with hard boiled egg and bleu cheese crumbles</span></p>
+            <p align='center' class='style48'><span class='style48'>Salade Onglet</span> *</p>
+            <p align='center'><span class='style48'>15<br />
+            <span class='style34'> Grilled 5oz Hanger steak served over romaine, in blue cheese dressing with tomatoes,
+            onions, blue cheese crumbles,bacon and cucumbers; sided by gauffrette potato chips</span></span></p>
+            <p align='center' class='style48'>Salade de Canard </p>
+            <p align='center'><span class='style48'>17</span></p>
+            <p align='center'><span class='style34'><strong> Duck leg confit served over mixed greens tossed in
+            strawberry vinaigrette with poached pears, dried cranberries and carrots, topped with warm goat
+            cheese crostini</strong></span></p>
+            <p align='center' class='style48'>Salade Nicoise *</p>
+            <p align='center'><span class='style48'>17</span></p>
+            <p align='center'><span class='style34'><strong> Tuna grilled to your liking, served mixed greens
+            tossed in balsamic vinaigrette with boiled potatoes, red onions, olives, tomatoes, anchovies,
+            roasted red peppers and hard boiled egg</strong></span></p>
+            <p align='center'><span class='style48'><br />
+            </span></p>
+            <p align='center'><img src='viandes.jpg' width='500' height='72' /><em><strong><em><strong><em>
+            <strong><em><strong><em><strong><em><strong><em><strong><em><strong><em><strong><br />
+            </strong></em></strong></em></strong></em></strong></em></strong></em></strong></em></strong></em>
+            </strong></em></strong></em></p>
+            <p align='center' class='style48'>Canard aux Framboises <br />
+            19<br />
+            </p>
+            <p align='center' class='style67'> <strong>Roasted duck breast accentuated with a vibrant
+            raspberry, chipotle gastrique; served with mashed potatoes and vegetables </strong></p>
+            <p align='center' class='style48'><strong></strong>Carre d’Agneau <br />
+            19<br />
+            </p>
+            <p align='center' class='style67'> <strong>Slowly braised lamb shank served with a natural jus,
+            mashed potatoes and vegetables</strong></p>
+            <p align='center' class='style48'>Pot au Feu <br />
+            17<br />
+            </p>
+            <p align='center' class='style67'> <strong>Tender beef brisket, chicken breast, cabbage,
+            turnips, tomatoes, onions, carrots, leeks, and celery in a natural jus; sided by sea salt,
+            croutons, cornichons, and mustard</strong></p>
+            <p align='center' class='style48'>Onglet sauce Béarnaise  <br />
+            19<br />
+            </p>
+            <p align='center' class='style67'> <strong>10 oz Hanger steak finished with Hollandaise
+            sauce infused with tarragon; served with house cut pommes frites and vegetables</strong></p>
+            <p align='center' class='style48'><strong></strong>Cassoulet du Central <br />
+            16</p>
+            <p align='center' class='style48'><span class='style45'> White beans simmered with pork,
+            duck confit, tomatoes, onions, and garlic; topped with mushroom, pistachio sausage</span></p>
+            <p align='center' class='style48'><strong><strong><strong><strong><strong><strong>
+            <span class='style46'><strong><strong><strong><strong><strong><strong><strong><strong><strong>
+            <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
+            <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
+            <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
+            <img src='poissonsd.jpg' alt='Les Poissons' width='792' height='72' /></strong></strong>
+            </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
+            </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
+            </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
+            </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><br />
+            </span></strong></strong></strong></strong></strong></strong></p>
+            <p align='center' class='style46'><span class='style8'><strong>Lotte au Safran </strong></span></p>
+            <p align='center' class='style46'>19<span class='style48'><br />
+            <span class='style34'> Pan seared monkfish enhanced with a saffron, tomato, fennel, roasted garlic
+            and white bean ragout; served with oven roasted potatoes and seasonal vegetables </span></span></p>
+            <p align='center' class='style46'><span class='style8'><strong>Coquille St. Jacque </strong></span></p>
+            <p align='center' class='style46'>23<span class='style48'><br />
+            <span class='style34'> Seared sea scallops served a top a butternut squash risotto with leeks and finished
+            with brown butter; served with vegetables </span></span></p>
+            <p align='center'><span class='style8'><strong>Saumon sauce Provençale  </strong></span></p>
+            <p align='center'><span class='style48'>17<br />
+            <span class='style34'> Pan seared filet of Atlantic salmon served with a rustic sauce of tomato, onion,
+            garlic, capers, olives, lemon juice and olive oil; sided by rice and seasonal vegetables </span></span></p>
+            <p align='center'><span class='style8'><strong>Sole à la Normande </strong></span></p>
+            <p align='center'><span class='style48'>18<br />
+            <span class='style34'> Sole in a shellfish sauce with mussels, shrimp, oysters and calvados; served
+            with rice and vegetables  </span></span></p>
+            <p align='center'><span class='style8'><strong>Ciopinno du Central</strong></span></p>
+            <p align='center'><span class='style48'>21<br />
+            <span class='style34'> A classic seafood stew in a roasted tomato broth, prepared with monkfish,
+            shrimp, squid, bay scallops, red fish, white fish, mussels, onion, and celery</span></span></p>
+            <p align='center'><span class='style48'>Le Vegetarienne</span><span class='style48'><br />
+            15</span><br />
+            </p>
+            <p align='center' class='style67'><strong> A duo of lasagne rolls one stuffed with sundried tomato
+            ricotta and mozzarella, and another stuffed with spinach ricotta and mozzarella, topped with marinara
+            and parmesan cheese</strong></p>
+            </body>"]
 
