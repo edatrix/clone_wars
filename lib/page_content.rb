@@ -420,7 +420,8 @@ content = ["<center><font size=+4>Directions</font>
             $18.00 bottle/ $4.50 glass</font><br>
             </strong>A versatile, refreshing, un-oaked, balanced, and flavorful blend of 50%
             Sauvignon Blanc, 40% S&eacute;millon and 10% Muscadelle.  With mid palate weight and
-            creaminess, the vibrant acidity and mineral kick makes it a great partner at the table or as an aperitif
+            creaminess, the vibrant acidity and mineral kick makes it a great partner at the table or
+            as an aperitif
             <p><strong><font color='#9999FF'>2010 Macon-Villages la Cote Blanche
             (Cave de Lugny)</font></strong><br />
             <strong><font color='#9999FF'>      Bourgogne <br />
@@ -440,7 +441,8 @@ content = ["<center><font size=+4>Directions</font>
             From 50 years old vines, light yellow with green tints. Aromas of sea air and
             lily of the valley give way to tanguy lemon peel and apple notes with a hint of honey,
             making this wine fantastically fresh and refreshing. With good minerality and a clean
-            crisp elongated finish, this is a great solo wine or the perfect accompaniment for mussels </strong></p>
+            crisp elongated finish, this is a great solo wine or the perfect accompaniment for mussels
+            </strong></p>
             <p><strong><font color='#9999FF'>2011 Coteaux du Giennois &ldquo;les charmes&rdquo;
             (Domaine michel Langlois)<br />
             Loire <br />
@@ -450,7 +452,8 @@ content = ["<center><font size=+4>Directions</font>
             Pouilly-Fum&eacute; neighbor (recipient of multi awards)</strong></p>
             <p>&nbsp;</p>
             <p><img src='winelabelfrw.jpg' width='759' height='50'></p>
-            <p><font size='+1'><strong><font color='#F1BCC1'><em><font color='#CC9999'>Available by the bottle, the %
+            <p><font size='+1'><strong><font color='#F1BCC1'><em><font color='#CC9999'>Available by
+            the bottle, the %
             of the bottle consumed, the glass, the half glass, and the taste $.50 and
             wine flight, which is a grouping of four wines, poured in&nbsp; three ounces
             quantities, and sold as a 'set' $6.50. </font></em></font><font color='#CC9999'><em>
@@ -1242,8 +1245,10 @@ content = ["<center><font size=+4>Directions</font>
             <span class='style39'><br />
             Seared filet of sole topped with a rustic ragout of tomatoes, olives, capers, garlic, and lemon juice; served with
             rice and vegetables </span></strong></p>
-            <p align='center' class='style51 style71'><strong><span class='style51'>Crêpes  aux Lardon $10</span><span class='style39'><br />
-            Savory crêpes with grilled marinated steak simmered in a fire chipotle cream sauce with smoked bacon, sauteed onions and mushrooms;
+            <p align='center' class='style51 style71'><strong><span class='style51'>Crêpes  aux Lardon $10</span>
+            <span class='style39'><br />
+            Savory crêpes with grilled marinated steak simmered in a fire chipotle cream sauce with smoked bacon, sauteed
+            onions and mushrooms;
             gratinéed with Swiss cheese</span><br />
             </strong></p>
             <p align='center' class='style76'>Moules et Frites</p>
