@@ -25,7 +25,7 @@ class PageStore
 
   def self.pages
     unless database.tables.include?(:pages)
-      database.run "CREATE TABLE pages (id integer primary key autoincrement, slug varchar, category varchar, content varchar)"
+      database.run "CREATE TABLE pages (id serial primary key, slug varchar, category varchar, content varchar)"
     end
       @pages ||= database[:pages]
   end
