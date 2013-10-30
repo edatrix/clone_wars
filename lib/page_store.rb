@@ -7,7 +7,11 @@ class PageStore
   include PageData
 
   def self.database
-    @database ||= Sequel.sqlite("db/page_development.sqlite3") 
+    @database ||= Sequel.sqlite("db/page_#{environment}.sqlite3") 
+  end
+
+  def self.environment
+    ENV["RACK_ENV"] || "development"
   end
 
   def self.pages

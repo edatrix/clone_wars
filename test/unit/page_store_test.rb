@@ -2,6 +2,10 @@ require_relative '../helpers/unit_helper'
 
 class PageStoreTest < Minitest::Test
 
+  def setup
+    
+  end
+
   def test_page_store_exists
     assert PageStore.new
   end
