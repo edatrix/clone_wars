@@ -6,8 +6,6 @@ require './lib/page'
 class PageStore
   include PageData
 
-
-
   def self.database
     @database ||= Sequel.sqlite("db/page_#{environment}.sqlite3") 
   end
@@ -34,6 +32,42 @@ class PageStore
     data["content"] = "" if data["content"].nil?
     pages.insert(data)
   end
+
+  def self.raw_ideas
+    database.fetch('SELECT * FROM pages').all
+  end
+
+  def self.all
+
+  end
+
+  def self.find
+
+  end
+
+  def self.find_all_by_category
+
+  end
+
+  def self.search
+
+  end
+
+  def self.find_raw_idea(id)
+
+  end
+
+
+
+  def self.update(id, data)
+
+  end
+
+  def self.delete(id)
+
+  end
+
+
 
  end
 

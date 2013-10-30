@@ -19,4 +19,12 @@ class PageStoreTest < Minitest::Test
     assert PageStore.database.tables.include?(:pages)
   end
 
+  def test_it_fetches_all_data
+    index = Page.new({"slug" => "index", "category" => "main", "content" => "<h1> I AM A WEB PAGE </h1>"})
+    index2 = Page.new({"slug" => "menus", "category" => "main", "content" => "<h1> I AM ALSO A WEB PAGE </h1>"})
+    index.save
+    index2.save
+    assert_equal "index", PageStore.raw_ideas.to_a.first[:slug]
+  end
+
 end
