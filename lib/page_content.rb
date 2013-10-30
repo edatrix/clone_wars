@@ -93,8 +93,8 @@ content = ["<center><font size=+4>Directions</font>
             </center>
             <br>&nbsp;
             <br>&nbsp;
-            </body>',
-            '<body bgcolor='#000064' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF' alink='#FFFF00'
+            </body>",
+            "<body bgcolor='#000064' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF' alink='#FFFF00'
             leftmargin='10'>&nbsp;
             <center>
             </center>
@@ -344,6 +344,15 @@ content = ["<center><font size=+4>Directions</font>
             <p><strong>Assiette de Charcuterie</strong> <strong>$</strong>11</p>
             <p><strong>An assortment of our house made pâtés served with cornichons, red onion,
             Kalamata olives, roasted bell peppers, and Dijon mustard </strong></p></body>",
+            "<body>
+            <img src='PAELLAPARTY.jpg' width='880' height='1960' />
+            </body>",
+            "<body bgcolor='#000066' link='#FFFFFF' vlink='#FFFFFF' alink='#FFFFFF'>
+            &nbsp;
+            <center>
+            <img src='TAKEOUTPICT.jpg' width='808' height='808' border='0' align='middle'>
+            </center>
+            </body>",
             "<body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00'
             leftmargin='0' marginwidth='10' onLoad='MM_preloadImages('../main/navigation/reservationdn.jpg')'>
             &nbsp;
@@ -1283,6 +1292,14 @@ content = ["<center><font size=+4>Directions</font>
             </div>
             </body>",
             "<body>
+            <div align='center'><img src='HAPPYHOUR.jpg' alt='Mid-afternoon / Happy Hour Menu' width='720' height='1600'
+            border='0' usemap='#Map' />
+            <map name='Map' id='Map'>
+            <area shape='rect' coords='523,67,525,69' href='#' />
+            </map>
+            </div>
+            </body>",
+            "<body>
             <p align='center' class='style18' style='text-align:center'>Menu du 29 Octobre</p>
             <p align='center' class='style18' style='text-align:center'>&nbsp;</p>
             <div align='center'>
@@ -1446,6 +1463,21 @@ content = ["<center><font size=+4>Directions</font>
             <p align='center' class='style67'><strong> A duo of lasagne rolls one stuffed with sundried tomato
             ricotta and mozzarella, and another stuffed with spinach ricotta and mozzarella, topped with marinara
             and parmesan cheese</strong></p>
+            </body>",
+            "<body>
+            <p><img src='desserts.jpg' width='800' height='1504' border='0' usemap='#Map' /></p>
+            <p align='center'><span class='style1'>There is a $1.50 per person charge for cakes brought into the
+            restaurant.<br />
+            We are more than happy to store cakes in the cooler, present to the guest with a candle, serve,
+            and sauce from the kitchen. </span>
+            <map name='Map' id='Map'>
+            <area shape='rect' coords='230,390,372,430' href='http://www.lecentral.com/ourmenu/dessertspecials.html'
+            target='_parent' />
+            </map>
+            </p>
+            </body>",
+            "<body link='#CC6666' vlink='#CC6666' alink='#CC6666'>
+            <div align='center'><img src='mussels1 copy.jpg' width='720' height='1200' border='0'></div>
             </body>"]
 
 complete_array = slug.zip(content)
