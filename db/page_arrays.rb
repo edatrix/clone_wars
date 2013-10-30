@@ -23,7 +23,8 @@ module PageData
 def slugs
 @slugs = ["information_directions1", "lecentral", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
-        "ourmenu_stass_menus", "tempstuff_picnicbasketmain", "ourmenu_stass_paellaparty", "winebev_featured",
+        "ourmenu_stass_menus", "tempstuff_picnicbasketmain",
+        "ourmenu_stass_paellaparty", "winebev_featured",
         "winebev_whitewine", "winebev_redwine", "ourmenu_brunch",
         "ourmenu_lunch", "tempstuff_happyhr", "ourmenu_dinner",
         "ourmenu_dessert", "ourmenu_mussels" ]
@@ -1155,7 +1156,7 @@ def contents
             <p align='center' class='style4'>&nbsp;</p>
             <div align='center' class='style39'>
             <p>&nbsp;</p>
-            <p><img src='line.jpg' alt='LINE' width='792' height='18' /></p>
+            <p><img src='images/line.jpg' alt='LINE' width='792' height='18' /></p>
             </div>
             <p align='center' style='text-align:center'>&nbsp;</p>
             <p align='center' style='text-align:center'>&nbsp;</p>
@@ -1309,7 +1310,7 @@ def contents
             <div align='center' class='style39'>
             <p><span class='style51'><strong>Italienne (Hot and Spicy)</strong></span><strong><br />
             Crushed red pepper and lemon with a touch of marinara</strong></p>
-            <p><img src='line.jpg' alt='LINE' width='792' height='18' /></p>
+            <p><img src='images/line.jpg' alt='LINE' width='792' height='18' /></p>
             </div>
             </body>",
             "<body>

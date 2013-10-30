@@ -17,6 +17,12 @@ class Page
     PageStore.create(to_h)
   end
 
+  def teardown_pages
+    PageStore.destroy
+    PageStore.pages
+    fill_database
+  end
+
   def to_h
     {
       "slug" => slug,

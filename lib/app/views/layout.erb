@@ -12,9 +12,33 @@
         <link rel="stylesheet" href="public/css_copy/style.css">
     </head>
     <body>
-    <div class="header">
+    <div class="header"><center>
       <a href="/"><img class="logo" src="images/lcheading.jpg" alt="logo"></a>
-    </div>  
+    </center></div>  
+
+    <center><ul class="menu">
+        <li><a href="index.html">Home</a></li>
+        <li class="current"><a href="cuisine.html">Directions</a></li>
+        <li><a href="wine_list.html">Party Information</a></li>
+        <li><a href="cookbook.html">Take out & Catering</a></li>
+        <li><a href="gallery.html">Wines</a></li>
+        <li><a href="contacts.html">Menus</a></li>
+    </ul></center>
+
+
+    <div class="clear"></div>
+        </nav>
+        <div id="slide">        
+        <div class="slider" style="overflow: hidden;">
+            <ul class="items">
+                <li style="display: none;"><img src="./images/fuck you cat.jpg" alt></li>
+                <li style="display: none;"><img src="./images/Funny cat.jpg" alt></li>
+                <li style="display: none;"><img src="./images/cat meme.jpg" alt></li>
+            </ul>
+            <div class="pic" style="overflow: hidden; width: 948px; height: 398px; background-image: url(file://localhost/Users/lespath/Downloads/1451_2a35ba4b2f72695f3c79be0f62c552a2%202/images/slider-1.jpg); background-position: 0px 0px; background-repeat: no-repeat no-repeat;"><div class="mask" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; z-index: 1;"><!-- <div style="left: 0px; top: 0px; position: absolute; width: 948px; height: 398px; background-image: url(file://localhost/Users/lespath/Downloads/1451_2a35ba4b2f72695f3c79be0f62c552a2%202/images/slider-1.jpg); opacity: 1; display: none; background-position: 0px 0px;"></div> --></div></div>
+          </div>
+
+
     <nav> </nav>
         <%= yield %>
     </body>
