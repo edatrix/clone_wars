@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'sequel'
-require 'sqlite3'
 require './lib/page'
 require './lib/page_store'
 
