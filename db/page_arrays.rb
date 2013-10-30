@@ -3,6 +3,7 @@ module PageData
 #order of pages:
       # - home
       # - directions
+      # - hours of operation
       # - facilities *
       # - faq
       # - sample menu
@@ -24,7 +25,7 @@ def slugs
 @slugs = ["lecentral", "information_directions1", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
         "ourmenu_stass_menus", "tempstuff_picnicbasketmain",
-        "ourmenu_stass_paellaparty", "winebev_featured",
+        "ourmenu_stass_paellaparty", "ourmenu_takeout", "winebev_featured",
         "winebev_whitewine", "winebev_redwine", "ourmenu_brunch",
         "ourmenu_lunch", "tempstuff_happyhr", "ourmenu_dinner",
         "ourmenu_dessert", "ourmenu_mussels" ]
@@ -52,8 +53,18 @@ def contents
             <br>&nbsp;
             <br>&nbsp;
             <p><img SRC='images/map11.gif' height=322 width=552></center>",
-            "<img SRC='images/facilities.jpg' alt='Party Facilities' width='800' height='1352'
-            border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'>",
+            "<body><center><p>
+            <br>
+            Monday - Friday Lunch........11:30 am - 2:30 pm<br>
+            Saturday & Sunday Brunch.....10:00 am - 2:30 pm<br>
+            Monday - Thursday Dinner.....5:30 pm - 10:00 pm<br>
+            Friday - Saturday Dinner.....5:00 pm- 10:00 pm<br>
+            Sunday Dinner................5:00 pm - 9:00 pm<br>
+            Happy Hour Fri - Sun.........2:30 pm - 5:00 pm<br>
+            <br>
+            <img src='images/diningroomfl.jpg' border='0' usemap='#Map2' height='435' width='680'></center></body>",
+            "<center><img SRC='images/facilities.jpg' alt='Party Facilities' width='800' height='1352'
+            border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'></center>",
             "<body bgcolor='#000064' background='bg.jpg' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF'
             alink='#FFFF00' leftmargin='10' marginwidth='10'><div align='center'><b><i>
             <font color='#FFFF99'><font size= +3>Frequently asked questions</font></font></i></b>
@@ -298,7 +309,7 @@ def contents
             <br><b><font color='#FFFFFF'><font size=+3>303-863-8094</font></font></b><br>&nbsp;
             <br>&nbsp;
             </body>",
-            "<body><p><strong><u>Le Central Picnic Baskets ~</u></strong></p>
+            "<center><body><p><strong><u>Le Central Picnic Baskets ~</u></strong></p>
             <p><em><strong>Individual boxed lunch that far exceeds prêt à manger!
             </strong></em></p>
             <p><strong>Sandwich Picnic Basket </strong><strong>~ $11.95</strong>
@@ -365,7 +376,7 @@ def contents
             <p><strong></strong></p>
             <p><strong>Assiette de Charcuterie</strong> <strong>$</strong>11</p>
             <p><strong>An assortment of our house made pâtés served with cornichons, red onion,
-            Kalamata olives, roasted bell peppers, and Dijon mustard </strong></p></body>",
+            Kalamata olives, roasted bell peppers, and Dijon mustard </strong></p></body></center>",
             "<body>
             <img SRC='images/PAELLAPARTY.jpg' width='880' height='1960' />
             </body>",
@@ -375,7 +386,7 @@ def contents
             <img src='images/TAKEOUTPICT.jpg' width='808' height='808' border='0' align='middle'>
             </center>
             </body>",
-            "<body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00'
+            "<center><body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00'
             leftmargin='0' marginwidth='10' onLoad='MM_preloadImages('../main/navigation/reservationdn.jpg')'>
             &nbsp;
             <table WIDTH='50%' BORDER=0 align='left' >
@@ -421,7 +432,7 @@ def contents
             pineapple juice </font></b> <br>
             <b><font color='#FBE1D9'>$6.00</font></b></p>
             <p>&nbsp;</p>
-            <p><b><font color='#FBE1D9'><img src='images/images/winelabelrose.jpg' width='759'
+            <p><b><font color='#FBE1D9'><img src='images/winelabelrose.jpg' width='759'
             height='50'></font></b></p>
             <p><b><i><font color='#CCFFFF'><font size=+1>Available by the bottle,
             the %&nbsp; of the bottle consumed, the glass, ha</font></font></i><i>
@@ -553,7 +564,7 @@ def contents
             </tr>
             </table>
             <div align='center'></div>
-            </body>",
+            </body></center>",
             "<body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00' leftmargin='10'>
             &nbsp;
             <center><table WIDTH='95%' BORDER=0 align='left' >
@@ -928,7 +939,7 @@ def contents
             </tr>
             </table>
             </body>",
-            "<body>
+            "<center><body>
             <table width='677' border='0' align='left' cellpadding='0' bordercolor='#000064' class='MsoNormalTable'
             id='brunch' style='width:573.75pt;
             mso-cellspacing:1.5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
@@ -1156,14 +1167,13 @@ def contents
             <p align='center' class='style4'>&nbsp;</p>
             <div align='center' class='style39'>
             <p>&nbsp;</p>
-            <p><img src='images/line.jpg' alt='LINE' width='792' height='18' /></p>
             </div>
             <p align='center' style='text-align:center'>&nbsp;</p>
             <p align='center' style='text-align:center'>&nbsp;</p>
             <p align='center' style='text-align:center'>&nbsp;</p></td>
             </tr>
             </table>
-            </body>",
+            </body></center>",
             "<body>
             <p align='center'>&nbsp;</p>
             <p align='center'>&nbsp;</p>
@@ -1310,7 +1320,6 @@ def contents
             <div align='center' class='style39'>
             <p><span class='style51'><strong>Italienne (Hot and Spicy)</strong></span><strong><br />
             Crushed red pepper and lemon with a touch of marinara</strong></p>
-            <p><img src='images/line.jpg' alt='LINE' width='792' height='18' /></p>
             </div>
             </body>",
             "<body>
@@ -1453,7 +1462,7 @@ def contents
             <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
             <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
             <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
-            <img src='poissonsd.jpg' alt='Les Poissons' width='792' height='72' /></strong></strong>
+            <img src='images/poissonsd.jpg' alt='Les Poissons' width='792' height='72' /></strong></strong>
             </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
             </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
             </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
