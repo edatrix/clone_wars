@@ -33,16 +33,20 @@ class PageStore
     pages.insert(data)
   end
 
-  def self.raw_ideas
+  def self.all
     database.fetch('SELECT * FROM pages').all
   end
 
-  def self.all
-
+  def self.find(id)
+    all.select do |data|
+      data[:id] == id
+    end.first
   end
 
-  def self.find
-
+  def self.find_by_slug(slug)
+    all.select do |data|
+      data[:slug] == slug
+    end.first
   end
 
   def self.find_all_by_category
@@ -50,10 +54,6 @@ class PageStore
   end
 
   def self.search
-
-  end
-
-  def self.find_raw_idea(id)
 
   end
 

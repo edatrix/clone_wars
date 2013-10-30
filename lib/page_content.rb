@@ -1,3 +1,5 @@
+
+
 slug = ["information_directions1", "lecentral", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
         "ourmenu_stass_menus", "tempstuff_picnicbasketmain", "winebev_featured",
@@ -1446,3 +1448,5 @@ content = ["<center><font size=+4>Directions</font>
             and parmesan cheese</strong></p>
             </body>"]
 
+complete_array = slug.zip(content)
+puts complete_array
