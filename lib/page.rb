@@ -1,5 +1,4 @@
 require 'sequel'
-require 'sqlite3'
 require './lib/page_store'
 require './db/page_arrays'
 
@@ -44,10 +43,8 @@ class Page
   end
 
   def fill_database
-     data_array.each do |data|
-       a_page = Page.new(data)
-       PageStore.create(data)
-     end
-   end
-
+    data_array.each do |data|
+      PageStore.create(data)
+    end
+  end
 end

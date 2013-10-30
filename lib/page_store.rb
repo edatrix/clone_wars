@@ -1,5 +1,4 @@
 require 'sequel'
-require 'sqlite3'
 require './db/page_arrays'
 require './lib/page'
 
@@ -7,7 +6,11 @@ class PageStore
   include PageData
 
   def self.database
-    @database ||= Sequel.sqlite("db/page_#{environment}.sqlite3") 
+    if ENV["DATABASE_URL"]
+      @database ||= Sequel.connect(ENV["DATABASE_URL"])
+    else
+      @database ||= Sequel.sqlite("db/page_#{environment}.sqlite3")
+    end
   end
 
   def self.environment
@@ -22,14 +25,12 @@ class PageStore
 
   def self.pages
     unless database.tables.include?(:pages)
-      database.run "CREATE TABLE pages (id integer primary key autoincrement, slug varchar, category varchar, content varchar)"
+      database.run "CREATE TABLE pages (id serial primary key, slug varchar, category varchar, content varchar)"
     end
       @pages ||= database[:pages]
   end
 
   def self.create(data)
-    data["category"] = "none" if data["category"].nil?
-    data["content"] = "" if data["content"].nil?
     pages.insert(data)
   end
 
