@@ -539,7 +539,7 @@ def contents
             </tr>
             <tr>
             <td>
-            <center><a href='http://www.france.com/' target='_blank'><img SRC='franceE_3.gif'
+            <center><a href='http://www.france.com/' target='_blank'><img SRC='images/franceE_3.gif'
             BORDER=0 height=50 width=68></a></center></td>
             </tr>
             <tr>
@@ -598,7 +598,7 @@ def contents
             <tr>
             <td HEIGHT='21'>
             <center>
-            <img src='winelabelhouse.jpg' width='759' height='50'><br><b><i><font color='#FF99FF'>
+            <img src='images/winelabelhouse.jpg' width='759' height='50'><br><b><i><font color='#FF99FF'>
             House wines are available by The bottle;
             % of the bottle consumed; glass; half glass; or taste $.50and wine flight,
             $6.50,which is a grouping of four house wines, poured in three ounce quantities,
@@ -701,7 +701,7 @@ def contents
             </tr>
             </table>
             <center>
-            <p align='center'><b><i><font color='#D8F3F0'><font color='#66CCFF' size=+3><img src='winelabelbourgogne.jpg'
+            <p align='center'><b><i><font color='#D8F3F0'><font color='#66CCFF' size=+3><img src='images/winelabelbourgogne.jpg'
             width='759' height='50' align='middle'></font></font></i></b></p>
             <p align='center'><b><i><font color='#C6FBE1'><font size=+1>The following wines are available
             by the bottle only</font></font></i></b>
@@ -845,7 +845,7 @@ def contents
             <tr>
             <td HEIGHT='21'>
             <center>
-            <img src='winelabelhouse.jpg' width='759' height='50'><br><b><i><font color='#FF99FF'>
+            <img src='images/winelabelhouse.jpg' width='759' height='50'><br><b><i><font color='#FF99FF'>
             House wines are available by The bottle;
             % of the bottle consumed; glass; half glass; or taste $.50and wine flight,
             $6.50,which is a grouping of four house wines, poured in three ounce quantities,
@@ -1117,7 +1117,7 @@ def contents
             </span></b></p>
             <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>        Croque Monsieur $8<br />
             <span class='style4'>Country bread, béchamel, Swiss cheese, and ham</span> <span class='style5'>(make it a Madame
-                  with two sunny side up eggs add $1.50)</span></span></b></p>
+            with two sunny side up eggs add $1.50)</span></span></b></p>
             <p align='center' style='text-align:center'><b><span style='color:#66FFFF'>        Monte Cristo $9<br />
             <span class='style4'>Brioche layered with ham and Swiss cheese, dipped in egg then griddle fried served with
             powdered sugar and raspberry coulis</span><br />
@@ -1182,7 +1182,7 @@ def contents
             <span class='style44'>&nbsp; Desserts, House Martinis and Sangria are $3.50
             Monday through Friday lunch!</span></p>
             </div>
-            <p align='center'><img src='pour commencer.jpg' width='288' height='144' /></p>
+            <p align='center'><img src='images/pour commencer.jpg' width='288' height='144' /></p>
             <p align='center' class='style51'><strong>Soupes du Jour</strong></p>
             <p align='center' class='style51'><span class='style66'> Beef and fall vegetables $2 Cup/$3 Bowl</span></p>
             <p align='center' class='style51'><span class='style66'> Curried sweet potato bisque $2 Cup/$3 Bowl<br />
@@ -1206,7 +1206,7 @@ def contents
             <span class='style39'>Colorado beets, grilled asparagus,  goat cheese, and walnuts served over
             mixed green tossed in balsamic vinaigrette</span></p>
             <p align='center'><span class='style51'>*Add grilled salmon to any salad for $7*</span></p>
-            <p align='center' class='style51'><img src='les sandwiches.jpg' width='288' height='144' />
+            <p align='center' class='style51'><img src='images/les sandwiches.jpg' width='288' height='144' />
             <span class='style39'><span class='style55'><br />
             </span></span></p>
             <p align='center' class='style51'>Served with salade verte  and choice of potato salad or pommes frites</p>
@@ -1238,7 +1238,7 @@ def contents
             </span></p>
             </blockquote>
             </blockquote>
-            <p align='center' class='style51 style71'><img src='les grandes salades.jpg' width='288' height='144' />
+            <p align='center' class='style51 style71'><img src='images/les grandes salades.jpg' width='288' height='144' />
             <span class='style51'><br />
             </span></p>
             <p align='center' class='style39'><span class='style51'>Salade  de Saumon$14</span></p>
@@ -1253,7 +1253,7 @@ def contents
             vinaigrette with boiled potatoes, egg plant, red onions, olives, tomatoes,   anchovies, roasted red peppers, and hard
             boiled egg</strong><span class='style51'><br />
             </span></p>
-            <p align='center' class='style39'><img src='le plat du jour.jpg' width='288' height='144' /><span class='style54'><br />
+            <p align='center' class='style39'><img src='images/le plat du jour.jpg' width='288' height='144' /><span class='style54'><br />
             </span></p>
             <p align='center'><span class='style54'><strong><span class='style75'><br />
             </span></strong></span></p>
@@ -1366,7 +1366,7 @@ def contents
             </strong></em><strong><span class='style34'>Warm wedge of brie, roasted head of garlic,
             tomatoes, basil and croutons</span></strong></p>
             <p align='center'>&nbsp;</p>
-            <p align='center'><img src='soupes.jpg' width='500' height='72' /></p>
+            <p align='center'><img src='images/soupes.jpg' width='500' height='72' /></p>
             <p align='center'><span class='style8'><b>Soupe du Jour</b> <br />
             <strong>3/4</strong></span></p>
             <p align='center'><span class='style8'><b>Soupe à l'Oignon</b> <br />
@@ -1418,7 +1418,7 @@ def contents
             roasted red peppers and hard boiled egg</strong></span></p>
             <p align='center'><span class='style48'><br />
             </span></p>
-            <p align='center'><img src='viandes.jpg' width='500' height='72' /><em><strong><em><strong><em>
+            <p align='center'><img src='images/viandes.jpg' width='500' height='72' /><em><strong><em><strong><em>
             <strong><em><strong><em><strong><em><strong><em><strong><em><strong><em><strong><br />
             </strong></em></strong></em></strong></em></strong></em></strong></em></strong></em></strong></em>
             </strong></em></strong></em></p>
@@ -1486,7 +1486,7 @@ def contents
             and parmesan cheese</strong></p>
             </body>",
             "<body>
-            <p><img src='desserts.jpg' width='800' height='1504' border='0' usemap='#Map' /></p>
+            <p><img src='images/desserts.jpg' width='800' height='1504' border='0' usemap='#Map' /></p>
             <p align='center'><span class='style1'>There is a $1.50 per person charge for cakes brought into the
             restaurant.<br />
             We are more than happy to store cakes in the cooler, present to the guest with a candle, serve,
@@ -1498,7 +1498,7 @@ def contents
             </p>
             </body>",
             "<body link='#CC6666' vlink='#CC6666' alink='#CC6666'>
-            <div align='center'><img src='mussels1 copy.jpg' width='720' height='1200' border='0'></div>
+            <div align='center'><img src='images/mussels1 copy.jpg' width='720' height='1200' border='0'></div>
             </body>"]
 end
 end
