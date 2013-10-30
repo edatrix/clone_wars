@@ -46,12 +46,12 @@ def contents
             <br>&nbsp;
             <br>&nbsp;
             <p><img SRC='images/map11.gif' height=322 width=552></center>",
-            "<img class='SSSlideCaption grpelem' id='u2997-23' SRC='images/u2997-23.png'
-            alt='&nbsp;Since 1981 Le Central has been serving the &quot;taste of
-            Provence&quot; on the Southeast corner of 8th and Lincoln in Denver. Conceived
-            with the notion that French food doesn't have to be stuffy, snooty, heavy, or
-            expensive - Le Central offers a plateful at a reasonable price. ' width='319'
-            height='221' style='display: block;'>'",
+            "<body><center>
+            <br>
+            <p>Since 1981 Le Central has been serving the &quot;taste of Provence&quot; on the Southeast corner of 8th and Lincoln in Denver. Conceived with the notion that French food doesn't have to be stuffy, snooty, heavy, or expensive &#45; Le Central offers a plateful at a reasonable price.</p>
+            <br>
+            <p><img SRC='images/chris 2small400x300.jpg' width='400' height='300' />
+            </center></body>",
             "<img SRC='images/facilities.jpg' alt='Party Facilities' width='800' height='1352'
             border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'>",
             "<body bgcolor='#000064' background='bg.jpg' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF'
