@@ -1,8 +1,8 @@
 module PageData
 
 #order of pages:
-      # - directions
       # - home
+      # - directions
       # - facilities *
       # - faq
       # - sample menu
@@ -21,7 +21,7 @@ module PageData
 
 
 def slugs
-@slugs = ["information_directions1", "lecentral", "information_information",
+@slugs = ["lecentral", "information_directions1", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
         "ourmenu_stass_menus", "tempstuff_picnicbasketmain",
         "ourmenu_stass_paellaparty", "winebev_featured",
@@ -30,7 +30,13 @@ def slugs
         "ourmenu_dessert", "ourmenu_mussels" ]
 end
 def contents
-@contents = ["<center><font size=+4>Directions</font>
+@contents = ["<body><center>
+            <br>
+            <p>Since 1981 Le Central has been serving the &quot;taste of Provence&quot; on the Southeast corner of 8th and Lincoln in Denver. Conceived with the notion that French food doesn't have to be stuffy, snooty, heavy, or expensive &#45; Le Central offers a plateful at a reasonable price.</p>
+            <br>
+            <p><img src='images/chris.jpg' width='400' height='300' />
+            </center></body>",
+            "<center><font size=+4>Directions</font>
             <p>From I-25 take 6th Ave East
             <br>Take 6th Ave to Lincoln and Turn Left
             <br>Le Central is 3 blocks north on Lincoln turning from 6th Ave on 8th
@@ -46,12 +52,6 @@ def contents
             <br>&nbsp;
             <br>&nbsp;
             <p><img SRC='images/map11.gif' height=322 width=552></center>",
-            "<body><center>
-            <br>
-            <p>Since 1981 Le Central has been serving the &quot;taste of Provence&quot; on the Southeast corner of 8th and Lincoln in Denver. Conceived with the notion that French food doesn't have to be stuffy, snooty, heavy, or expensive &#45; Le Central offers a plateful at a reasonable price.</p>
-            <br>
-            <p><img SRC='images/chris 2small400x300.jpg' width='400' height='300' />
-            </center></body>",
             "<img SRC='images/facilities.jpg' alt='Party Facilities' width='800' height='1352'
             border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'>",
             "<body bgcolor='#000064' background='bg.jpg' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF'
@@ -1183,7 +1183,7 @@ def contents
             <span class='style44'>&nbsp; Desserts, House Martinis and Sangria are $3.50
             Monday through Friday lunch!</span></p>
             </div>
-            <p align='center'><img src='images/pour commencer.jpg' width='288' height='144' /></p>
+            <p align='center'><img src='images/pour_commencer.jpg' width='288' height='144' /></p>
             <p align='center' class='style51'><strong>Soupes du Jour</strong></p>
             <p align='center' class='style51'><span class='style66'> Beef and fall vegetables $2 Cup/$3 Bowl</span></p>
             <p align='center' class='style51'><span class='style66'> Curried sweet potato bisque $2 Cup/$3 Bowl<br />
@@ -1207,7 +1207,7 @@ def contents
             <span class='style39'>Colorado beets, grilled asparagus,  goat cheese, and walnuts served over
             mixed green tossed in balsamic vinaigrette</span></p>
             <p align='center'><span class='style51'>*Add grilled salmon to any salad for $7*</span></p>
-            <p align='center' class='style51'><img src='images/les sandwiches.jpg' width='288' height='144' />
+            <p align='center' class='style51'><img src='images/les_sandwiches.jpg' width='288' height='144' />
             <span class='style39'><span class='style55'><br />
             </span></span></p>
             <p align='center' class='style51'>Served with salade verte  and choice of potato salad or pommes frites</p>
@@ -1239,7 +1239,7 @@ def contents
             </span></p>
             </blockquote>
             </blockquote>
-            <p align='center' class='style51 style71'><img src='images/les grandes salades.jpg' width='288' height='144' />
+            <p align='center' class='style51 style71'><img src='images/les_grandes_salades.jpg' width='288' height='144' />
             <span class='style51'><br />
             </span></p>
             <p align='center' class='style39'><span class='style51'>Salade  de Saumon$14</span></p>
@@ -1254,7 +1254,7 @@ def contents
             vinaigrette with boiled potatoes, egg plant, red onions, olives, tomatoes,   anchovies, roasted red peppers, and hard
             boiled egg</strong><span class='style51'><br />
             </span></p>
-            <p align='center' class='style39'><img src='images/le plat du jour.jpg' width='288' height='144' /><span class='style54'><br />
+            <p align='center' class='style39'><img src='images/le_plat_du_jour.jpg' width='288' height='144' /><span class='style54'><br />
             </span></p>
             <p align='center'><span class='style54'><strong><span class='style75'><br />
             </span></strong></span></p>
@@ -1499,7 +1499,7 @@ def contents
             </p>
             </body>",
             "<body link='#CC6666' vlink='#CC6666' alink='#CC6666'>
-            <div align='center'><img src='images/mussels1 copy.jpg' width='720' height='1200' border='0'></div>
+            <div align='center'><img src='images/mussels1_copy.jpg' width='720' height='1200' border='0'></div>
             </body>"]
 end
 end
