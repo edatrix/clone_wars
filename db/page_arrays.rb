@@ -1,4 +1,25 @@
 module PageData
+
+#order of pages:
+      # - directions
+      # - home
+      # - facilities *
+      # - faq
+      # - sample menu
+      # - picnic basket
+      # - paella party *
+      # - take out buffet *
+      # - featured house wines
+      # - white wines
+      # - red wines
+      # - sat and sun brunch
+      # - lunch M-F
+      # - F-Sun mid-afternoon *
+      # - Sat-Sun dinner
+      # - desserts *
+      # - mussel menu *
+
+
 def slugs
 @slugs = ["information_directions1", "lecentral", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
