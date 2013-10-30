@@ -12,6 +12,15 @@ class RestaurantApp < Sinatra::Base
     erb :index, locals: {content: PageStore.find_by_slug("lecentral")}
   end
 
+  get '/:slug' do |slug|
+    if PageStore.find_by_slug(slug) != []
+      page = PageStore.find_by_slug(slug)
+    else
+      page = "lecentral"
+    end
+    erb :page, locals: {content: page}
+  end
+
   get '/events' do
     erb :events
   end

@@ -42,7 +42,7 @@ class PageStoreTest < Minitest::Test
     index.save
     index2.save
     search = PageStore.find_by_slug("menus")
-    assert_equal "menus", search[:slug]
+    assert_equal index2.content, search
   end
 
 end
