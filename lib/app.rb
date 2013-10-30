@@ -9,7 +9,7 @@ class RestaurantApp < Sinatra::Base
   set :root, 'lib/app'
 
   get '/' do
-    erb :index, locals: {:content => "Bonjour"} #Page.new.find_page("information_directions1").first[1]}
+    erb :index, locals: {content: PageStore.find_by_slug("information_directions1")}
   end
 
   get '/events' do

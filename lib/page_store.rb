@@ -46,7 +46,7 @@ class PageStore
   def self.find_by_slug(slug)
     all.select do |data|
       data[:slug] == slug
-    end.first
+    end.first[:content]
   end
 
   def self.find_all_by_category
