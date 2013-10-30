@@ -4,7 +4,7 @@ require 'sqlite3'
 require_relative './food'
 require_relative './page'
 require_relative '../db/page_arrays'
-#require_relative './page_store'
+require_relative './page_store'
 
 class RestaurantApp < Sinatra::Base
   set :method_override, true

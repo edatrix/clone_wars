@@ -1,5 +1,6 @@
 require 'sequel'
 require 'sqlite3'
+require_relative 'page_store'
 require_relative '../db/page_arrays'
 
 class Page
