@@ -1,5 +1,4 @@
 require 'sequel'
-require 'sqlite3'
 require './db/page_arrays'
 require './lib/page'
 
