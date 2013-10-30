@@ -2,12 +2,11 @@ module PageData
 def slugs
 @slugs = ["information_directions1", "lecentral", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
-        "ourmenu_stass_menus", "tempstuff_picnicbasketmain", "winebev_featured",
+        "ourmenu_stass_menus", "tempstuff_picnicbasketmain", "ourmenu_stass_paellaparty", "winebev_featured",
         "winebev_whitewine", "winebev_redwine", "ourmenu_brunch",
         "ourmenu_lunch", "tempstuff_happyhr", "ourmenu_dinner",
         "ourmenu_dessert", "ourmenu_mussels" ]
 end
-
 def contents
 @contents = ["<center><font size=+4>Directions</font>
             <p>From I-25 take 6th Ave East
@@ -25,13 +24,13 @@ def contents
             <br>&nbsp;
             <br>&nbsp;
             <p><img SRC='images/map11.gif' height=322 width=552></center>",
-            "<img class='SSSlideCaption grpelem' id='u2997-23' src='images/u2997-23.png'
+            "<img class='SSSlideCaption grpelem' id='u2997-23' SRC='images/u2997-23.png'
             alt='&nbsp;Since 1981 Le Central has been serving the &quot;taste of
             Provence&quot; on the Southeast corner of 8th and Lincoln in Denver. Conceived
             with the notion that French food doesn't have to be stuffy, snooty, heavy, or
             expensive - Le Central offers a plateful at a reasonable price. ' width='319'
             height='221' style='display: block;'>'",
-            "<img src='facilities.jpg' alt='Party Facilities' width='800' height='1352'
+            "<img SRC='images/facilities.jpg' alt='Party Facilities' width='800' height='1352'
             border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'>",
             "<body bgcolor='#000064' background='bg.jpg' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF'
             alink='#FFFF00' leftmargin='10' marginwidth='10'><div align='center'><b><i>
@@ -346,12 +345,12 @@ def contents
             <p><strong>An assortment of our house made pâtés served with cornichons, red onion,
             Kalamata olives, roasted bell peppers, and Dijon mustard </strong></p></body>",
             "<body>
-            <img src='PAELLAPARTY.jpg' width='880' height='1960' />
+            <img SRC='images/PAELLAPARTY.jpg' width='880' height='1960' />
             </body>",
             "<body bgcolor='#000066' link='#FFFFFF' vlink='#FFFFFF' alink='#FFFFFF'>
             &nbsp;
             <center>
-            <img src='TAKEOUTPICT.jpg' width='808' height='808' border='0' align='middle'>
+            <img src='images/TAKEOUTPICT.jpg' width='808' height='808' border='0' align='middle'>
             </center>
             </body>",
             "<body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00'
@@ -359,7 +358,7 @@ def contents
             &nbsp;
             <table WIDTH='50%' BORDER=0 align='left' >
             <tr>
-            <td width='952'>  <img src='winelabelfeature.jpg' width='952' height='50'></td>
+            <td width='952'>  <img src='images/winelabelfeature.jpg' width='952' height='50'></td>
             </tr>
             <tr>
             <td>
@@ -400,7 +399,7 @@ def contents
             pineapple juice </font></b> <br>
             <b><font color='#FBE1D9'>$6.00</font></b></p>
             <p>&nbsp;</p>
-            <p><b><font color='#FBE1D9'><img src='winelabelrose.jpg' width='759'
+            <p><b><font color='#FBE1D9'><img src='images/images/winelabelrose.jpg' width='759'
             height='50'></font></b></p>
             <p><b><i><font color='#CCFFFF'><font size=+1>Available by the bottle,
             the %&nbsp; of the bottle consumed, the glass, ha</font></font></i><i>
@@ -463,7 +462,7 @@ def contents
             soils is vibrant, with flint and citrus aromas comparable to its more famous
             Pouilly-Fum&eacute; neighbor (recipient of multi awards)</strong></p>
             <p>&nbsp;</p>
-            <p><img src='winelabelfrw.jpg' width='759' height='50'></p>
+            <p><img src='images/winelabelfrw.jpg' width='759' height='50'></p>
             <p><font size='+1'><strong><font color='#F1BCC1'><em><font color='#CC9999'>Available by
             the bottle, the %
             of the bottle consumed, the glass, the half glass, and the taste $.50 and
@@ -1293,7 +1292,7 @@ def contents
             </div>
             </body>",
             "<body>
-            <div align='center'><img src='HAPPYHOUR.jpg' alt='Mid-afternoon / Happy Hour Menu' width='720' height='1600'
+            <div align='center'><img src='images/HAPPYHOUR.jpg' alt='Mid-afternoon / Happy Hour Menu' width='720' height='1600'
             border='0' usemap='#Map' />
             <map name='Map' id='Map'>
             <area shape='rect' coords='523,67,525,69' href='#' />
