@@ -7,7 +7,11 @@ class PageStore
   include PageData
 
   def self.database
-    @database ||= Sequel.sqlite("db/page_#{environment}.sqlite3") 
+    if ENV["DATABASE_URL"]
+      @database ||= Sequel.connect(ENV["DATABASE_URL"])
+    else
+      @database ||= Sequel.sqlite("db/page_#{environment}.sqlite3")
+    end
   end
 
   def self.environment
