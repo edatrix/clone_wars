@@ -1480,5 +1480,8 @@ content = ["<center><font size=+4>Directions</font>
             <div align='center'><img src='mussels1 copy.jpg' width='720' height='1200' border='0'></div>
             </body>"]
 
-complete_array = slug.zip(content)
-puts complete_array
+completed_array = []
+
+slug.each_with_index do |slug, index|
+      completed_array << {slug: slug, content: content[index]}
+end
