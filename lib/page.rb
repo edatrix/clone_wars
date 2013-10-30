@@ -4,42 +4,30 @@ require_relative 'page_store'
 require_relative '../db/page_arrays'
 
 class Page
-  include PageData
+  attr_accessor :id, :slug, :category, :content 
 
-  attr_accessor :pages, :database
-
-  def database
-    @database ||= Sequel.sqlite('development.sqlite3')
-  end
-
-  def pages
-    database[:pages]
-  end
-
-  def all_pages
-    array = []
-    pages.each do |page|
-      array << [page[:slug], page[:content]]
-    end
-    array
-  end
-
-  def find_page(search_word)
-    all_pages.select do |page|
-      page.first == search_word
-    end
-  end
-
-  def insert
-    pages.insert(:slug => slug, :content => content)
-  end
-
-  def test
-    puts pages.select.to_a
-  end
-
+def initialize(attributes ={})
+  @id = attributes["id"]
+  @slug = attributes["slug"]
+  @category = attributes["category"] || 'none'
+  @content = attributes["content"] || ""
 end
 
-engine = Page.new
-engine.database
-engine.pages
+def save
+  PageStore.create(to_h)
+end
+
+def to_h
+  {
+    "id" => id,
+    "slug" => slug,
+    "category" => category,
+    "content" => content
+  }
+end
+
+def update
+  PageStore.update(id, to_h)
+end
+
+end
