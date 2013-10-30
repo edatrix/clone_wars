@@ -31,8 +31,6 @@ class PageStore
   end
 
   def self.create(data)
-    data["category"] = "none" if data["category"].nil?
-    data["content"] = "" if data["content"].nil?
     pages.insert(data)
   end
 
