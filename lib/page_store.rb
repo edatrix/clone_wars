@@ -6,6 +6,8 @@ require './lib/page'
 class PageStore
   include PageData
 
+
+
   def self.database
     @database ||= Sequel.sqlite("db/page_#{environment}.sqlite3") 
   end
@@ -63,8 +65,4 @@ class PageStore
 
 #   def insert
 #     pages.insert(:slug => slug, :content => content)
-#   end
-
-#   def test
-#     puts pages.select.to_a
 #   end
