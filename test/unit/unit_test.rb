@@ -1,35 +1,29 @@
 require_relative '../helpers/unit_helper'
 
+class PageTest < Minitest::Test
 
-class RestaurantAppTest < Minitest::Test
-  include Rack::Test::Methods
-
-  def app
-    RestaurantApp
+  def test_page_exists
+    assert Page.new
   end
 
-  def test_index_page_functions
-    get '/'
-    assert_equal 200, last_response.status
-  end  
-
-  def test_events_page_functions
-    get '/events'
-    assert_equal 200, last_response.status
+  def test_new_page_attributes_can_be_defined
+    index = Page.new({"id" => 1, "slug" => "index", "category" => "main", "content" => "<h1> I AM A WEB PAGE </h1>"})
+    assert_equal "index", index.slug
   end
 
-  def test_menus_page_functions
-    get '/menus'
-    assert_equal 200, last_response.status
+  def test_new_page_attributes_can_be_created_without_category
+    index = Page.new({"id" => 1, "slug" => "index", "content" => "<h1> I AM A WEB PAGE </h1>"})
+    assert_equal "none", index.category
   end
 
-  def test_party_page_functions
-    get '/party_info'
-    assert_equal 200, last_response.status
+  def test_new_page_can_be_created_without_content
+    index = Page.new({"id" => 1, "slug" => "index"})
+    assert_equal "", index.content
   end
 
-  def test_index_contact_functions
-    get '/contact'
-    assert_equal 200, last_response.status
+  def test_to_h_method_functions_with_or_without_all_cats_as_expected
+    index = Page.new({"id" => 1, "slug" => "index", "category" => "main", "content" => "<h1> I AM A WEB PAGE </h1>"})
+    assert_kind_of Hash, index.to_h
   end
+
 end

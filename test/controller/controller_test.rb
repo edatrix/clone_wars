@@ -1,24 +1,34 @@
 require_relative '../helpers/unit_helper'
 
-class PageTest < Minitest::Test
+class RestaurantAppTest < Minitest::Test
+  include Rack::Test::Methods
 
-  def test_page_exists
-    assert Page.new
+  def app
+    RestaurantApp
   end
 
-  def test_new_page_attributes_can_be_defined
-    index = Page.new({"id" => 1, "slug" => "index", "category" => "main", "content" => "<h1> I AM A WEB PAGE </h1>"})
-    assert_equal "index", index.slug
+  def test_index_page_functions
+    get '/'
+    assert_equal 200, last_response.status
+  end  
+
+  def test_events_page_functions
+    get '/events'
+    assert_equal 200, last_response.status
   end
 
-  def test_new_page_attributes_can_be_created_without_category
-    index = Page.new({"id" => 1, "slug" => "index", "content" => "<h1> I AM A WEB PAGE </h1>"})
-    assert_equal "none", index.category
+  def test_menus_page_functions
+    get '/menus'
+    assert_equal 200, last_response.status
   end
 
-  def test_new_page_can_be_created_without_content
-    index = Page.new({"id" => 1, "slug" => "index"})
-    assert_equal "", index.content
+  def test_party_info_page_functions
+    get '/party_info'
+    assert_equal 200, last_response.status
   end
 
+  def test_index_page_functions
+    get '/contact'
+    assert_equal 200, last_response.status
+  end
 end
