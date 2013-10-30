@@ -14,6 +14,12 @@ class PageStore
     ENV["RACK_ENV"] || "development"
   end
 
+  def self.destroy
+    if database.tables.include?(:pages)
+      database.drop_table(:pages)
+    end
+  end
+
   def self.pages
     unless database.tables.include?(:pages)
       database.run "CREATE TABLE pages (id integer primary key autoincrement, slug varchar, content varchar)"
