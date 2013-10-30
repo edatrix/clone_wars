@@ -1,4 +1,4 @@
-require 'Sinatra'
+require 'sinatra'
 require 'sequel'
 require 'sqlite3'
 require './lib/page'
