@@ -57,8 +57,6 @@ class PageStore
 
   end
 
-
-
   def self.update(id, data)
 
   end
