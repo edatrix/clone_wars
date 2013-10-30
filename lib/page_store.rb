@@ -24,16 +24,17 @@ class PageStore
 
   def self.pages
     unless database.tables.include?(:pages)
-      database.run "CREATE TABLE pages (id integer primary key autoincrement, slug varchar, content varchar)"
+      database.run "CREATE TABLE pages (id integer primary key autoincrement, slug varchar, category varchar, content varchar)"
     end
       @pages ||= database[:pages]
   end
 
-#   def self.create(data)
-#     data["category"] = "none" if data["category"].nil?
-#     data["content"] = "" if data["content"].nil?
-#     pages.insert(data)
-#   end
+  def self.create(data)
+    data["category"] = "none" if data["category"].nil?
+    data["content"] = "" if data["content"].nil?
+    pages.insert(data)
+  end
+
  end
 
 

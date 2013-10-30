@@ -7,7 +7,6 @@ class Page
   attr_accessor :id, :slug, :category, :content 
 
   def initialize(attributes ={})
-    @id = attributes["id"]
     @slug = attributes["slug"]
     @category = attributes["category"] || 'none'
     @content = attributes["content"] || ""
@@ -19,7 +18,6 @@ class Page
 
   def to_h
     {
-      "id" => id,
       "slug" => slug,
       "category" => category,
       "content" => content

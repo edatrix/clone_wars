@@ -2,8 +2,8 @@ require_relative '../helpers/unit_helper'
 
 class PageStoreTest < Minitest::Test
 
-  def setup
-    
+  def teardown
+    PageStore.destroy
   end
 
   def test_page_store_exists
