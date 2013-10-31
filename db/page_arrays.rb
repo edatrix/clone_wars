@@ -401,123 +401,114 @@ def contents
             <center>
             <table width='80%' border='0' align='center'>
             <tr>
-            <th scope='col'><p><b><i><font color='#484848 '><font color='#484848 '
-            size=+2>2010 Muscat de Frontignan Chateau de la Peyrade</font></font></i></b> <br>
-            <b><font color='#484848 '>Sweet Complex and full in the mouth, rich and fruity
-            yet fresh</font></b> <br>
-            <b><font color='#484848 '>$6.00</font></b></p>
-            <p><b><i><font color='#484848 '><font color='#484848 ' size=+2>Le Blanc Lim&eacute;
-            </font></font></i></b> <br>
-            <b><font color='#484848 '>Sauvignon Blanc, lemonade,
-            splash of soda and a squeeze of lime</font></b> <br>
-            <b><font color='#484848 '>$3.00</font></b>
+            <th scope='col'><p><b><i><font size=+2>2010 Muscat de Frontignan Chateau de la Peyrade</font></i></b> <br>
+            <b>Sweet Complex and full in the mouth, rich and fruity
+            yet fresh</b> <br>
+            <b>$6.00</b></p>
+            <p><b><i><font size=+2>Le Blanc Lim&eacute;</font></i></b> <br>
+            <b>Sauvignon Blanc, lemonade, splash of soda and a squeeze of lime</b> <br>
+            <b>$3.00</b>
             </p>
-            <p><b><i><font color='#484848 '><font color='#484848 ' size=+2>Le Kir</font>
-            </font></i></b> <br>
-            <b><font color='#484848 '>Chardonnay and black current liquor</font></b> <br>
-            <b><font color='#484848 '>$5.00</font></b>
-            <p><b><i><font color='#484848 '><font color='#484848 ' size=+2>Pineau des
-            Charentes</font></font></i></b> <br>
-            <b><font color='#484848 '>Natural smooth, chilled blend of Cognac and grapes
-            juice, aged for 2 years</font></b> <br>
-            <b><font color='#484848 '>$7.00</font></b>
-            <p><b><i><font color='#484848 ' size='+2'>Sangria</font></i></b> <br>
-            <font color='#484848 '><strong>Relax with a glass of chilled red wine with
+            <p><b><i><font size=+2>Le Kir</font></i></b> <br>
+            <b>Chardonnay and black current liquor</b> <br>
+            <b>$5.00</b>
+            <p><b><i><font size=+2>Pineau des Charentes</font></i></b> <br>
+            <b>Natural smooth, chilled blend of Cognac and grapes
+            juice, aged for 2 years</b> <br>
+            <b>$7.00</b>
+            <p><b><i><font size='+2'>Sangria</font></i></b> <br>
+            <strong>Relax with a glass of chilled red wine with
             seasonal fruits, secrets spices, rhum, &amp; brandy <br>
-            </strong><b>$4.00</b></font></p>
-            <p><b><i><font color='#484848 '><font color='#484848 ' size=+2>French Kiss</font></font></i></b> <br>
-            <b><font color='#484848 '>Sparkling Marquis de Perlade blanc de blanc
-            Brute and Grand Marnier</font></b> <br>
-            <b><font color='#484848 '>$6.00</font></b></p>
-            <p><b><i><font color='#484848 '><font color='#484848 ' size=+2>French
-            Martini </font></font></i></b> <br>
-            <b><font color='#484848 '>Chilled blend of vodka, Chambord raspberry liquor and
-            pineapple juice </font></b> <br>
-            <b><font color='#484848 '>$6.00</font></b></p>
+            </strong><b>$4.00</b></p>
+            <p><b><i><font size=+2>French Kiss</font></i></b> <br>
+            <b>Sparkling Marquis de Perlade blanc de blanc Brute and Grand Marnier</b> <br>
+            <b>$6.00</b></p>
+            <p><b><i><font size=+2>French Martini </font>/i></b> <br>
+            <b>Chilled blend of vodka, Chambord raspberry liquor and
+            pineapple juice </b> <br>
+            <b>$6.00</b></p>
             <p>&nbsp;</p>
-            <p><b><font color='#484848 '><img src='images/winelabelrose.jpg' width='759'
-            height='50'></font></b></p>
-            <p><b><i><font color='#484848 '><font size=+1>Available by the bottle,
-            the %&nbsp; of the bottle consumed, the glass, ha</font></font></i><i>
-            <font color='#484848 '><font size=+1>lf&nbsp; glass, and taste
+            <p><b><img src='images/winelabelrose.jpg' width='759'
+            height='50'></b></p>
+            <p><b><i><font size=+1>Available by the bottle,
+            the %&nbsp; of the bottle consumed, the glass, ha</font></i><i>
+            <font size=+1>lf&nbsp; glass, and taste
             $.50 and wine flight $6.50 your choice of four white house wines, poured
-            in three ounces quantities, and sold as a </font></font></i></b> </p>
-            <p><strong><font color='#484848 '>2012  Pays d Oc (Domaine Guillaume Cabrol) Roussillon <br />
+            in three ounces quantities, and sold as a flight</font></i></b> </p>
+            <p><strong>2012  Pays d Oc (Domaine Guillaume Cabrol) Roussillon <br />
             Roussillon<br />
-            $18.00 bottle/ $4.50 glass</font><br>
+            $18.00 bottle/ $4.50 glass<br>
             The domaine practices sustainable viticulture and is certified by Terra Vitis.
             The Mediterranean climate and the fact that they harvest at night protects the aromas and
             freshness of  the dry blend of 40% Rolle and 60% Terret The wine is bright and crisp to
-            enjoy with shellfish or as an aperitif </strong><p><strong><font color='#484848 '>2011
-            Pays du Var Ros&eacute; (Domaine Sainte Mitre)<br />
+            enjoy with shellfish or as an aperitif </strong><p><strong>
+            2011 Pays du Var Ros&eacute; (Domaine Sainte Mitre)<br />
             Provence  <br />
-            $22.00 bottle/ $5.50 glass</font><br>
+            $22.00 bottle/ $5.50 glass<br>
             Harvested at 4 am to preserve the grapes freshness this juicy Provence Ros&eacute;
             is a blend of Syrah, grenache cinsault and marsellan This is the wine Stella enjoyed
             on the French Riviera.</strong>
-            <p><strong><font color='#484848 '>2011  Cotes du Rhone Blanc (Jaboulet)  <br />
+            <p><strong>2011  Cotes du Rhone Blanc (Jaboulet)  <br />
             Southern Rhone    <br />
-            $20.00 bottle/ $5.00 glass</font><br>
+            $20.00 bottle/ $5.00 glass<br>
             </strong>A blend of 50% Grenache blanc, 20% Marsanne, 20% Viognier and 10% Bourboulenc,
             this wine is aged 2-3 months, 50% in oak casks, to help round its bright, crisp,
             mineral-inflected stone fruit and structure in the mouth. This delicious white wine has
             sufficient depth and weight to complement white meats and game
-            <p><strong><font color='#484848 '>Entre deux Mers  ( Chateau Bonnet)      <br />
+            <p><strong>Entre deux Mers  ( Chateau Bonnet)      <br />
             Bordeaux<br />
-            $18.00 bottle/ $4.50 glass</font><br>
+            $18.00 bottle/ $4.50 glass<br>
             </strong>A versatile, refreshing, un-oaked, balanced, and flavorful blend of 50%
             Sauvignon Blanc, 40% S&eacute;millon and 10% Muscadelle.  With mid palate weight and
             creaminess, the vibrant acidity and mineral kick makes it a great partner at the table or
             as an aperitif
-            <p><strong><font color='#484848 '>2010 Macon-Villages la Cote Blanche
-            (Cave de Lugny)</font></strong><br />
-            <strong><font color='#484848 '>      Bourgogne <br />
-            $20.00 bottle/ $5.00 glass</font><br>
+            <p><strong>2010 Macon-Villages la Cote Blanche
+            (Cave de Lugny)</strong><br />
+            <strong>Bourgogne <br />
+            $20.00 bottle/ $5.00 glass<br>
             Light, smooth, easy drinking, no oak, summer Chardonnay blend from different terroirs,
             around the village of Lugny in the Maconnais (Southern Burgundy region), The nose is
             fresh with intense notes of fruit and flowers (citrus, white flowers and honey).
             The palate is flattering, fresh and gourmand</strong>
-            <p><strong><font color='#484848 '>2011 White Zinfandel (Corbett Canyon)<br />
+            <p><strong>2011 White Zinfandel (Corbett Canyon)<br />
             California<br />
-            $24.00 magnum / $3.00 glass</font><br>
+            $24.00 magnum / $3.00 glass<br>
             The classic</strong>
-            <p><strong><font color='#484848 '>2011 Muscadet de S&egrave;vre et Maine sur lie &ldquo;
+            <p><strong>2011 Muscadet de S&egrave;vre et Maine sur lie &ldquo;
             le Domaine&rdquo;( Pierre Bouchaud) <br />
             Loire <br />
-            $25.00 bottle/ $6.25 glass</font><br>
+            $25.00 bottle/ $6.25 glass<br>
             From 50 years old vines, light yellow with green tints. Aromas of sea air and
             lily of the valley give way to tanguy lemon peel and apple notes with a hint of honey,
             making this wine fantastically fresh and refreshing. With good minerality and a clean
             crisp elongated finish, this is a great solo wine or the perfect accompaniment for mussels
             </strong></p>
-            <p><strong><font color='#484848 '>2011 Coteaux du Giennois &ldquo;les charmes&rdquo;
+            <p><strong>2011 Coteaux du Giennois &ldquo;les charmes&rdquo;
             (Domaine michel Langlois)<br />
             Loire <br />
-            $26.00 bottle/ $6.50 glass</font><br>
+            $26.00 bottle/ $6.50 glass<br>
             From the center of the Loire valley this 100% Sauvignon blanc grown on limestone-clay
             soils is vibrant, with flint and citrus aromas comparable to its more famous
             Pouilly-Fum&eacute; neighbor (recipient of multi awards)</strong></p>
             <p>&nbsp;</p>
             <p><img src='images/winelabelfrw.jpg' width='759' height='50'></p>
-            <p><font size='+1'><strong><font color='#484848 '><em><font color='#484848 '>Available by
-            the bottle, the %
+            <p><font size='+1'><strong><em>Available by the bottle, the %
             of the bottle consumed, the glass, the half glass, and the taste $.50 and
             wine flight, which is a grouping of four wines, poured in&nbsp; three ounces
-            quantities, and sold as a 'set' $6.50. </font></em></font><font color='#484848 '><em>
-            Remember, you can now legally take
-            open / unfinished bottles of wine out of the restaurant to enjoy in your
-            home</em></font></strong></font></p>
-            <p><strong><font color='#484848 '>2011 Malbec Touraine (Domaine Maxime)        <br />
+            quantities, and sold as a 'set' $6.50. </em><em>
+            Remember, you can now legally take open / unfinished bottles of wine out of the restaurant
+            to enjoy in your home</em></strong></font></p>
+            <p><strong>2011 Malbec Touraine (Domaine Maxime)        <br />
             Loire<br />
-            $24.00 Bottle / $6.00 glass</font><br>
-            <font color='#484848 '> From a small producer from Touraine at the center of the Loire valley
+            $24.00 Bottle / $6.00 glass<br>
+             From a small producer from Touraine at the center of the Loire valley
             known as the garden of France and place of all the beautiful chateaux,  very saturated
             purple-magenta wine with a gorgeous, sweet malbec nose with bright, blackberries. Supple
             entry with juicy acids and fruit. Great skin tannins. Very lush, yet vivid mouth. Soft, fine
-            tannins in the finish</font></strong></p>
-            <p><strong><font color='#484848 '>2008 M&eacute;doc (Chateau le vieux Serestin) cru artisan<br />
+            tannins in the finish</strong></p>
+            <p><strong>2008 M&eacute;doc (Chateau le vieux Serestin) cru artisan<br />
             Bordeaux <br />
-            $26.00 Bottle / $6.50 glass</font><br>
+            $26.00 Bottle / $6.50 glass<br>
             Chateau Le Vieux Serestin is a 22 hectare estate planted with : 45% Cabernet Sauvignon,
             45% Merlot, 8% Petit Verdot and 2% Cabernet Franc on clay / calcareous soils. In the vineyard,
             there is green harvesting, leaf removal and only minimal use of chemicals. After harvest the grapes
@@ -525,26 +516,26 @@ def contents
             twice a day. The wine is aged in one and two year old barrels for 6 months. Chateau Le Vieux Serestin is a
             supple, round wine with a good body and beautiful aromas of red fruits intertwined with spicy, woody notes and
             ripe tannins. The Petit Verdot brings power and strength that just lift the wine</strong></p>
-            <p><strong><font color='#484848 '>2008 Coteaux du Languedoc (Paul Mas G S M )</font></strong><br />
-            <strong><font color='#484848 '>    $26.00 Bottle / $6.50 glass</font></strong><br>
+            <p><strong>2008 Coteaux du Languedoc (Paul Mas G S M )</font></strong><br />
+            <strong>$26.00 Bottle / $6.50 glass</strong><br>
             <strong>Opulent and well-balanced with a sweet fruit mouthfeel and a rich, full-bodied toasted finish<br>
             blend of the three Mediterranean grapes 35% Grenache,30% Mourv&egrave;dre and 35% Syrah</strong></p>
             <p><strong><font color='#484848 '>2012 Beaujolais  (Bel Air) </font></strong><br />
-            <strong><font color='#484848 '>Southern Burgundy <br>
-            $20.00 Bottle / $5.00 glass</font></strong><br>
+            <strong>Southern Burgundy <br>
+            $20.00 Bottle / $5.00 glass</strong><br>
             <strong>Set in the heart of the Beaujolais vineyards, at the foot of Mont Brouilly, La Cave des Vignerons
             de Bel Air, is a small cooperative, whose growers farm 400 ha of vines, The highest attention is paid
             to meticulous care in the vineyard and winery and quality is never compromised.. The consistently high
             level of awards achieved by their wines bears testament to the quality wine they produce</strong></p>
-            <p><strong><font color='#484848 '>2009 Bordeaux Sup&eacute;rieur  (Chateau Barreyre)</font></strong><br />
-            <strong><font color='#484848 '>Bordeaux Left Bank<br>
-            $22.00 Bottle / $5.50 glass</font></strong><br>
+            <p><strong>2009 Bordeaux Sup&eacute;rieur  (Chateau Barreyre)</strong><br />
+            <strong>Bordeaux Left Bank<br>
+            $22.00 Bottle / $5.50 glass</strong><br>
             Deep Margaux-like robe. aroma of cassis and ripe red berries, enticing floral tones.,  complex mix of
             nuanced flavors reminiscent of black cherry, cedar, and vanilla. Balanced, spicy juicy  and superbly
             structured blend of  50% Merlot, 40% Cabernet Sauvignon, and 10% Petit Verdot  plush ripe tannins</p>
             <p><strong><font color='#484848 '>2011 Syrah  (Cave de Cers)</font></strong><br />
-            <strong><font color='#484848 '>Pays d Oc<br>
-            $18.00 Bottle / $4.50 glass</font></strong><br>
+            <strong>Pays d Oc<br>
+            $18.00 Bottle / $4.50 glass</strong><br>
             As a northen Cote du Rhone grape Syrah need a lot of ageing, in the Languedoc area, Syrah produces wines
             with quick accessibility. The wine from a small growers association  shows lush fruit flavors, fresh sage,
             dusty earth, boysenberry and spice. It is lovely with dinner, or simply enjoyed as a great cocktail</p></th>
@@ -1332,10 +1323,7 @@ def contents
             </div>
             </body>",
             "<body>
-            <p align='center' class='style18' style='text-align:center'>Menu du 29 Octobre</p>
-            <p align='center' class='style18' style='text-align:center'>&nbsp;</p>
-            <div align='center'>
-            <p><span class='style18'>Hors d'Oeuvres</span></p>
+            <p><center><font size=+2><span class='style18'>Hors d'Oeuvres</span></font></center></p>
             </div>
             <p align='center' class='style46'>&nbsp;</p>
             <p align='center'>&nbsp;</p>
