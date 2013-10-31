@@ -15,14 +15,14 @@ class Page
   def save
     PageStore.create(to_h)
   end
-
+  
   def teardown_pages
     PageStore.destroy
     PageStore.pages
     fill_database
   end
 
-  def self.to_h(slug, content)
+  def self(slug, content)
     {
       "slug" => slug,
       "content" => content
