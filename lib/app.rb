@@ -26,7 +26,14 @@ class RestaurantApp < Sinatra::Base
     else
       page = "lecentral"
     end
-    erb :edit, locals: {content: page}
+    erb :edit, locals: {content: page, slug: slug}
+  end
+
+  post '/update' do
+    # page = PageStore.find_by_slug(params[:slug])
+    #formatted_page = Page.to_h(params[:slug], params[:new_content])
+    PageStore.update(params[:new_content], params[:slug])
+    redirect "/#{params[:slug]}"
   end
 
   get '/events' do

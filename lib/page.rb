@@ -22,17 +22,16 @@ class Page
     fill_database
   end
 
-  def to_h
+  def self.to_h(slug, content)
     {
       "slug" => slug,
-      "category" => category,
       "content" => content
     }
   end
 
-  def update
-    PageStore.update(id, to_h)
-  end
+  # def update
+  #   PageStore.update(id, to_h)
+  # end
 
   def data_array
     completed_array = []

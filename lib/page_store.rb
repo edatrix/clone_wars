@@ -61,17 +61,16 @@ class PageStore
   end
 
   def self.find_all_by_category
-
   end
 
   def self.search
 
   end
 
-  #Will probably need to change all ids to slugs
+  #Will probably need to change all ids to
 
-  def self.update(id, data)
-
+  def self.update(content_id, slug_id)
+    pages.where(:slug => slug_id).update(:content => content_id)
   end
 
   def self.delete(id)
