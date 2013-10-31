@@ -1,8 +1,9 @@
 module PageData
 
 #order of pages:
-      # - directions
       # - home
+      # - directions
+      # - hours of operation
       # - facilities *
       # - faq
       # - sample menu
@@ -21,16 +22,22 @@ module PageData
 
 
 def slugs
-@slugs = ["information_directions1", "lecentral", "information_information",
+@slugs = ["lecentral", "information_directions1", "information_information",
         "ourmenu_stass_facilities", "ourmenu_stass_questions",
         "ourmenu_stass_menus", "tempstuff_picnicbasketmain",
-        "ourmenu_stass_paellaparty", "winebev_featured",
+        "ourmenu_stass_paellaparty", "ourmenu_takeout", "winebev_featured",
         "winebev_whitewine", "winebev_redwine", "ourmenu_brunch",
         "ourmenu_lunch", "tempstuff_happyhr", "ourmenu_dinner",
         "ourmenu_dessert", "ourmenu_mussels" ]
 end
 def contents
-@contents = ["<center><font size=+4>Directions</font>
+@contents = ["<body><center>
+            <br>
+            <p>Since 1981 Le Central has been serving the &quot;taste of Provence&quot; on the Southeast corner of 8th and Lincoln in Denver. Conceived with the notion that French food doesn't have to be stuffy, snooty, heavy, or expensive &#45; Le Central offers a plateful at a reasonable price.</p>
+            <br>
+            <p><img src='images/chris.jpg' width='400' height='300' />
+            </center></body>",
+            "<center><font size=+4>Directions</font>
             <p>From I-25 take 6th Ave East
             <br>Take 6th Ave to Lincoln and Turn Left
             <br>Le Central is 3 blocks north on Lincoln turning from 6th Ave on 8th
@@ -46,14 +53,18 @@ def contents
             <br>&nbsp;
             <br>&nbsp;
             <p><img SRC='images/map11.gif' height=322 width=552></center>",
-            "<body><center>
+            "<body><center><p>
             <br>
-            <p>Since 1981 Le Central has been serving the &quot;taste of Provence&quot; on the Southeast corner of 8th and Lincoln in Denver. Conceived with the notion that French food doesn't have to be stuffy, snooty, heavy, or expensive &#45; Le Central offers a plateful at a reasonable price.</p>
+            Monday - Friday Lunch........11:30 am - 2:30 pm<br>
+            Saturday & Sunday Brunch.....10:00 am - 2:30 pm<br>
+            Monday - Thursday Dinner.....5:30 pm - 10:00 pm<br>
+            Friday - Saturday Dinner.....5:00 pm- 10:00 pm<br>
+            Sunday Dinner................5:00 pm - 9:00 pm<br>
+            Happy Hour Fri - Sun.........2:30 pm - 5:00 pm<br>
             <br>
-            <p><img SRC='images/chris 2small400x300.jpg' width='400' height='300' />
-            </center></body>",
-            "<img SRC='images/facilities.jpg' alt='Party Facilities' width='800' height='1352'
-            border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'>",
+            <img src='images/diningroomfl.jpg' border='0' usemap='#Map2' height='435' width='680'></center></body>",
+            "<center><img SRC='images/facilities.jpg' alt='Party Facilities' width='800' height='1352'
+            border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'></center>",
             "<body bgcolor='#000064' background='bg.jpg' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF'
             alink='#FFFF00' leftmargin='10' marginwidth='10'><div align='center'><b><i>
             <font color='#FFFF99'><font size= +3>Frequently asked questions</font></font></i></b>
@@ -298,7 +309,7 @@ def contents
             <br><b><font color='#FFFFFF'><font size=+3>303-863-8094</font></font></b><br>&nbsp;
             <br>&nbsp;
             </body>",
-            "<body><p><strong><u>Le Central Picnic Baskets ~</u></strong></p>
+            "<center><body><p><strong><u>Le Central Picnic Baskets ~</u></strong></p>
             <p><em><strong>Individual boxed lunch that far exceeds prêt à manger!
             </strong></em></p>
             <p><strong>Sandwich Picnic Basket </strong><strong>~ $11.95</strong>
@@ -365,7 +376,7 @@ def contents
             <p><strong></strong></p>
             <p><strong>Assiette de Charcuterie</strong> <strong>$</strong>11</p>
             <p><strong>An assortment of our house made pâtés served with cornichons, red onion,
-            Kalamata olives, roasted bell peppers, and Dijon mustard </strong></p></body>",
+            Kalamata olives, roasted bell peppers, and Dijon mustard </strong></p></body></center>",
             "<body>
             <img SRC='images/PAELLAPARTY.jpg' width='880' height='1960' />
             </body>",
@@ -375,7 +386,7 @@ def contents
             <img src='images/TAKEOUTPICT.jpg' width='808' height='808' border='0' align='middle'>
             </center>
             </body>",
-            "<body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00'
+            "<center><body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00'
             leftmargin='0' marginwidth='10' onLoad='MM_preloadImages('../main/navigation/reservationdn.jpg')'>
             &nbsp;
             <table WIDTH='50%' BORDER=0 align='left' >
@@ -421,7 +432,7 @@ def contents
             pineapple juice </font></b> <br>
             <b><font color='#FBE1D9'>$6.00</font></b></p>
             <p>&nbsp;</p>
-            <p><b><font color='#FBE1D9'><img src='images/images/winelabelrose.jpg' width='759'
+            <p><b><font color='#FBE1D9'><img src='images/winelabelrose.jpg' width='759'
             height='50'></font></b></p>
             <p><b><i><font color='#CCFFFF'><font size=+1>Available by the bottle,
             the %&nbsp; of the bottle consumed, the glass, ha</font></font></i><i>
@@ -553,7 +564,7 @@ def contents
             </tr>
             </table>
             <div align='center'></div>
-            </body>",
+            </body></center>",
             "<body bgcolor='#000066' text='#FFFFFF' link='#FFCCCC' vlink='#33CCFF' alink='#FFFF00' leftmargin='10'>
             &nbsp;
             <center><table WIDTH='95%' BORDER=0 align='left' >
@@ -928,7 +939,7 @@ def contents
             </tr>
             </table>
             </body>",
-            "<body>
+            "<center><body>
             <table width='677' border='0' align='left' cellpadding='0' bordercolor='#000064' class='MsoNormalTable'
             id='brunch' style='width:573.75pt;
             mso-cellspacing:1.5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
@@ -1156,14 +1167,13 @@ def contents
             <p align='center' class='style4'>&nbsp;</p>
             <div align='center' class='style39'>
             <p>&nbsp;</p>
-            <p><img src='images/line.jpg' alt='LINE' width='792' height='18' /></p>
             </div>
             <p align='center' style='text-align:center'>&nbsp;</p>
             <p align='center' style='text-align:center'>&nbsp;</p>
             <p align='center' style='text-align:center'>&nbsp;</p></td>
             </tr>
             </table>
-            </body>",
+            </body></center>",
             "<body>
             <p align='center'>&nbsp;</p>
             <p align='center'>&nbsp;</p>
@@ -1183,7 +1193,7 @@ def contents
             <span class='style44'>&nbsp; Desserts, House Martinis and Sangria are $3.50
             Monday through Friday lunch!</span></p>
             </div>
-            <p align='center'><img src='images/pour commencer.jpg' width='288' height='144' /></p>
+            <p align='center'><img src='images/pour_commencer.jpg' width='288' height='144' /></p>
             <p align='center' class='style51'><strong>Soupes du Jour</strong></p>
             <p align='center' class='style51'><span class='style66'> Beef and fall vegetables $2 Cup/$3 Bowl</span></p>
             <p align='center' class='style51'><span class='style66'> Curried sweet potato bisque $2 Cup/$3 Bowl<br />
@@ -1207,7 +1217,7 @@ def contents
             <span class='style39'>Colorado beets, grilled asparagus,  goat cheese, and walnuts served over
             mixed green tossed in balsamic vinaigrette</span></p>
             <p align='center'><span class='style51'>*Add grilled salmon to any salad for $7*</span></p>
-            <p align='center' class='style51'><img src='images/les sandwiches.jpg' width='288' height='144' />
+            <p align='center' class='style51'><img src='images/les_sandwiches.jpg' width='288' height='144' />
             <span class='style39'><span class='style55'><br />
             </span></span></p>
             <p align='center' class='style51'>Served with salade verte  and choice of potato salad or pommes frites</p>
@@ -1239,7 +1249,7 @@ def contents
             </span></p>
             </blockquote>
             </blockquote>
-            <p align='center' class='style51 style71'><img src='images/les grandes salades.jpg' width='288' height='144' />
+            <p align='center' class='style51 style71'><img src='images/les_grandes_salades.jpg' width='288' height='144' />
             <span class='style51'><br />
             </span></p>
             <p align='center' class='style39'><span class='style51'>Salade  de Saumon$14</span></p>
@@ -1254,7 +1264,7 @@ def contents
             vinaigrette with boiled potatoes, egg plant, red onions, olives, tomatoes,   anchovies, roasted red peppers, and hard
             boiled egg</strong><span class='style51'><br />
             </span></p>
-            <p align='center' class='style39'><img src='images/le plat du jour.jpg' width='288' height='144' /><span class='style54'><br />
+            <p align='center' class='style39'><img src='images/le_plat_du_jour.jpg' width='288' height='144' /><span class='style54'><br />
             </span></p>
             <p align='center'><span class='style54'><strong><span class='style75'><br />
             </span></strong></span></p>
@@ -1310,7 +1320,6 @@ def contents
             <div align='center' class='style39'>
             <p><span class='style51'><strong>Italienne (Hot and Spicy)</strong></span><strong><br />
             Crushed red pepper and lemon with a touch of marinara</strong></p>
-            <p><img src='images/line.jpg' alt='LINE' width='792' height='18' /></p>
             </div>
             </body>",
             "<body>
@@ -1453,7 +1462,7 @@ def contents
             <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
             <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
             <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>
-            <img src='poissonsd.jpg' alt='Les Poissons' width='792' height='72' /></strong></strong>
+            <img src='images/poissonsd.jpg' alt='Les Poissons' width='792' height='72' /></strong></strong>
             </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
             </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
             </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>
@@ -1499,7 +1508,7 @@ def contents
             </p>
             </body>",
             "<body link='#CC6666' vlink='#CC6666' alink='#CC6666'>
-            <div align='center'><img src='images/mussels1 copy.jpg' width='720' height='1200' border='0'></div>
+            <div align='center'><img src='images/mussels1_copy.jpg' width='720' height='1200' border='0'></div>
             </body>"]
 end
 end
