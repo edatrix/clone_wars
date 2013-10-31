@@ -28,6 +28,7 @@ class PageStoreTest < Minitest::Test
   end
 
   def test_find_finds_a_page_by_id
+    skip
     index = Page.new({"slug" => "index", "category" => "main", "content" => "<h1> I AM A WEB PAGE </h1>"})
     index2 = Page.new({"slug" => "menus", "category" => "main", "content" => "<h1> I AM ALSO A WEB PAGE </h1>"})
     index.save

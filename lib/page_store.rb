@@ -38,13 +38,13 @@ class PageStore
     database.fetch('SELECT * FROM pages').all
   end
 
-  def self.find(id_term)
-    if finder_method(:id, id_term) != []
-      finder_method(:slug, slug_term).first[:content]
-    else
-      "<h1> Page Does Not Exist </h1>" 
-    end
-  end
+  # def self.find(id_term)
+  #   if finder_method(:id, id_term) != []
+  #     finder_method(:id, id_term).first[:slug]
+  #   else
+  #     "<h1> Page Does Not Exist </h1>" 
+  #   end
+  # end
 
   def self.find_by_slug(slug_term)
     if finder_method(:slug, slug_term) != []
@@ -67,6 +67,8 @@ class PageStore
   def self.search
 
   end
+
+  #Will probably need to change all ids to slugs
 
   def self.update(id, data)
 
