@@ -70,9 +70,9 @@ def contents
             border='0' usemap='#Map' longdesc='http://www.lecentral.com/ourmenu/stass/facilities.html'></center>",
             "<br><body bgcolor='#000064' background='bg.jpg' text='#FFFFFF' link='#FFCCCC' vlink='#66FFFF'
             alink='#FFFF00' leftmargin='10' marginwidth='10'><div align='center'><b><i>
-            <font color='#484848 '><font size= +3>Frequently asked questions</font></font></i></b>
+            <font size= +3>Frequently asked questions</font></i></b>
             </div><div align='center'><p><br>
-            <b><i><font color='#484848 '><font size=+2>Time of the party</font></font></i></b>
+            <b><i><font size=+2>Time of the party</font></font></i></b>
             <br>
             <font size=+1>&nbsp; Larger parties generally start around 5:00 p.m. with a 7:45 p.m.
             departure or from 8:00 pm to closing.</font>
@@ -80,51 +80,51 @@ def contents
             <font size=+1>Prime times are Friday, Saturday, Holidays and December</font> </p>
             </div>
             <div align='center'></div>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Exclusive use of the
-            room</font></font></i></b>
+            <p align='center'><b><i><font size=+2>Exclusive use of the
+            room</font></i></b>
             <br><font size=+1>We do our best to keep your party as private as possible.
             However, during the prime times listed above we do require a minimum, depending
             on the room, to hold it private.</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Rental fees</font>
+            <p align='center'><b><i><font size=+2>Rental fees
             </font></i></b><br><font size=+1>We do not charge a rental fee. We would
             prefer you spend your money on your guests!</font>
             <br><font size=+1>In the month of December a deposit may be required, but
             that is applied to your final bill.</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Business meeting
-            </font></font></i></b>
+            <p align='center'><b><i><font size=+2>Business meeting
+            </font></i></b>
             <br><font size=+1>Speaker's stand, projection screens, etc can be arranged</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Large groups
-            </font></font></i></b>
+            <p align='center'><b><i><font size=+2>Large groups
+            </font></i></b>
             <br><font size=+1>For groups over 20 persons Le Central may request of
             you to choose from a three course Prix Fixe menu offering a choice of three
             main courses to your guests. The purpose of this is to assure a better
             dining experience to your group.</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Tax and Gratuity
-            </font></font></i></b>
+            <p align='center'><b><i><font size=+2>Tax and Gratuity
+            </font></i></b>
             <br><font size=+1>sales taxes 8.2%</font>
             <br><font size=+1>A gratuity of 18% is recommenced for large groups</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Alcoholic beverage
-            </font></font></i></b>
+            <p align='center'><b><i><font size=+2>Alcoholic beverage
+            </font></i></b>
             <br><font size=+1>Options are: open bar (no limits host pay), limited (pre-selected
             wines and alochol), partially cash bar (example: you pay for the wine but
             not hard liquor) or cash bar (guests pay for their own drinks)</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Dessert</font>
-            </font></i></b>
+            <p align='center'><b><i><font size=+2>Dessert</font>
+            </i></b>
             <br>
             <font size=+1>Our Pastry chef is always happy to craft a cake for any
             size of party.&nbsp; However if you choose to bring&nbsp; your own cake
             we will add a $1.50 a guest cake cutting fee to your bill.</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Vegetarian</font>
-            </font></i></b>
+            <p align='center'><b><i><font size=+2>Vegetarian</font>
+            </i></b>
             <br><font size=+1>We always have a vegetarian dish on our regular menu</font>
-            <p align='center'><b><i><font color='#484848 '><font size=+2>Special diet</font>
-            </font></i></b>
+            <p align='center'><b><i><font size=+2>Special diet</font>
+            </i></b>
             <br><font size=+1>Let us know and we will work with you</font>
             <br>&nbsp;
             <p><br>
-            <p align='center'><b><font color='#484848 '><font size=+3>Give us a call!</font>
-            </font></b>
-            <br><b><font color='#484848 '><font size=+3>303-863-8094</font></font></b>
+            <p align='center'><b><font size=+3>Give us a call!</font>
+            </b>
+            <br><b><font size=+3>303-863-8094</font></b>
             <center>
             </center>
             <br>&nbsp;
