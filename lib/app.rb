@@ -2,6 +2,7 @@ require 'sinatra'
 require 'sequel'
 require './lib/page'
 require './lib/page_store'
+require './lib/contact'
 
 class RestaurantApp < Sinatra::Base
   set :method_override, true
@@ -9,6 +10,15 @@ class RestaurantApp < Sinatra::Base
 
   get '/' do
     erb :index, locals: {content: PageStore.find_by_slug("lecentral")}
+  end
+
+  get '/contact' do
+    erb :contact
+  end
+
+  post '/contact' do
+    Contact.new(params[:contact]).send_email
+    redirect '/'
   end
 
   get '/:slug' do |slug|
@@ -46,10 +56,6 @@ class RestaurantApp < Sinatra::Base
 
   get '/party_info' do
     erb :party_info
-  end
-
-  get '/contact' do
-    erb :contact
   end
 
   private
